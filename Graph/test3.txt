@@ -1,0 +1,2869 @@
+ALGraph with 658 vertexs was initialized successfully
+vertexname:北京 degree:12
+edge 北京 to 廊坊 : weight: 41
+edge 北京 to 涿州 : weight: 57
+edge 北京 to 锦州 : weight: 558
+edge 北京 to 通州 : weight: 20
+edge 北京 to 首都机场 : weight: 19
+edge 北京 to 昌平 : weight: 31
+edge 北京 to 固安大桥 : weight: 42
+edge 北京 to 大兴 : weight: 48
+edge 北京 to 宣化 : weight: 146
+edge 北京 to 沈阳 : weight: 635
+edge 北京 to 大灰厂 : weight: 28
+edge 北京 to 三河 : weight: 64
+
+vertexname:廊坊 degree:3
+edge 廊坊 to 天津 : weight: 60
+edge 廊坊 to 西青 : weight: 62
+edge 廊坊 to 北京 : weight: 41
+
+vertexname:天津 degree:5
+edge 天津 to 塘沽 : weight: 44
+edge 天津 to 唐山 : weight: 139
+edge 天津 to 保定 : weight: 129
+edge 天津 to 济南 : weight: 247
+edge 天津 to 廊坊 : weight: 60
+
+vertexname:塘沽 degree:1
+edge 塘沽 to 天津 : weight: 44
+
+vertexname:涿州 degree:2
+edge 涿州 to 保定 : weight: 51
+edge 涿州 to 北京 : weight: 57
+
+vertexname:保定 degree:3
+edge 保定 to 石家庄 : weight: 153
+edge 保定 to 涿州 : weight: 51
+edge 保定 to 天津 : weight: 129
+
+vertexname:石家庄 degree:5
+edge 石家庄 to 旧关 : weight: 46
+edge 石家庄 to 安阳 : weight: 216
+edge 石家庄 to 黄骅 : weight: 187
+edge 石家庄 to 郑州 : weight: 380
+edge 石家庄 to 保定 : weight: 153
+
+vertexname:锦州 degree:4
+edge 锦州 to 沈阳 : weight: 100
+edge 锦州 to 连山 : weight: 60
+edge 锦州 to 凌海 : weight: 24
+edge 锦州 to 北京 : weight: 558
+
+vertexname:沈阳 degree:8
+edge 沈阳 to 鞍山 : weight: 86
+edge 沈阳 to 本溪 : weight: 88
+edge 沈阳 to 铁岭 : weight: 57
+edge 沈阳 to 抚顺 : weight: 63
+edge 沈阳 to 四平 : weight: 173
+edge 沈阳 to 新民 : weight: 68
+edge 沈阳 to 锦州 : weight: 100
+edge 沈阳 to 北京 : weight: 635
+
+vertexname:通州 degree:2
+edge 通州 to 燕郊 : weight: 13
+edge 通州 to 北京 : weight: 20
+
+vertexname:燕郊 degree:1
+edge 燕郊 to 通州 : weight: 13
+
+vertexname:首都机场 degree:1
+edge 首都机场 to 北京 : weight: 19
+
+vertexname:昌平 degree:2
+edge 昌平 to 居庸关 : weight: 31
+edge 昌平 to 北京 : weight: 31
+
+vertexname:居庸关 degree:2
+edge 居庸关 to 康庄 : weight: 8
+edge 居庸关 to 昌平 : weight: 31
+
+vertexname:康庄 degree:1
+edge 康庄 to 居庸关 : weight: 8
+
+vertexname:固安大桥 degree:1
+edge 固安大桥 to 北京 : weight: 42
+
+vertexname:大兴 degree:1
+edge 大兴 to 北京 : weight: 48
+
+vertexname:唐山 degree:4
+edge 唐山 to 京唐港 : weight: 80
+edge 唐山 to 滦州 : weight: 28
+edge 唐山 to 丰南 : weight: 17
+edge 唐山 to 天津 : weight: 139
+
+vertexname:旧关 degree:2
+edge 旧关 to 太原 : weight: 144
+edge 旧关 to 石家庄 : weight: 46
+
+vertexname:太原 degree:5
+edge 太原 to 原平 : weight: 94
+edge 太原 to 汾阳 : weight: 118
+edge 太原 to 阳曲 : weight: 21
+edge 太原 to 晋中 : weight: 27
+edge 太原 to 旧关 : weight: 144
+
+vertexname:安阳 degree:2
+edge 安阳 to 新乡 : weight: 122
+edge 安阳 to 石家庄 : weight: 216
+
+vertexname:黄骅 degree:3
+edge 黄骅 to 宁河 : weight: 71
+edge 黄骅 to 盐山 : weight: 40
+edge 黄骅 to 石家庄 : weight: 187
+
+vertexname:宣化 degree:2
+edge 宣化 to 大同 : weight: 186
+edge 宣化 to 北京 : weight: 146
+
+vertexname:大同 degree:2
+edge 大同 to 呼和浩特 : weight: 181
+edge 大同 to 宣化 : weight: 186
+
+vertexname:呼和浩特 degree:3
+edge 呼和浩特 to 包头 : weight: 147
+edge 呼和浩特 to 和林格尔 : weight: 57
+edge 呼和浩特 to 大同 : weight: 181
+
+vertexname:京唐港 degree:1
+edge 京唐港 to 唐山 : weight: 80
+
+vertexname:原平 degree:3
+edge 原平 to 代 : weight: 45
+edge 原平 to 忻州 : weight: 33
+edge 原平 to 太原 : weight: 94
+
+vertexname:汾阳 degree:1
+edge 汾阳 to 太原 : weight: 118
+
+vertexname:运城 degree:4
+edge 运城 to 风陵渡 : weight: 90
+edge 运城 to 洛阳 : weight: 156
+edge 运城 to 临猗 : weight: 20
+edge 运城 to 平陆 : weight: 49
+
+vertexname:风陵渡 degree:1
+edge 风陵渡 to 运城 : weight: 90
+
+vertexname:阳城 degree:1
+edge 阳城 to 晋城 : weight: 30
+
+vertexname:晋城 degree:4
+edge 晋城 to 洛阳 : weight: 99
+edge 晋城 to 高平 : weight: 46
+edge 晋城 to 济源 : weight: 131
+edge 晋城 to 阳城 : weight: 30
+
+vertexname:洛阳 degree:9
+edge 洛阳 to 郑州 : weight: 121
+edge 洛阳 to 灵宝 : weight: 205
+edge 洛阳 to 西安 : weight: 300
+edge 洛阳 to 济源 : weight: 32
+edge 洛阳 to 登封 : weight: 8
+edge 洛阳 to 巩义 : weight: 76
+edge 洛阳 to 渑池 : weight: 89
+edge 洛阳 to 晋城 : weight: 99
+edge 洛阳 to 运城 : weight: 156
+
+vertexname:包头 degree:2
+edge 包头 to 达拉特旗 : weight: 44
+edge 包头 to 呼和浩特 : weight: 147
+
+vertexname:鞍山 degree:2
+edge 鞍山 to 大石桥 : weight: 70
+edge 鞍山 to 沈阳 : weight: 86
+
+vertexname:大石桥 degree:2
+edge 大石桥 to 大连 : weight: 202
+edge 大石桥 to 鞍山 : weight: 70
+
+vertexname:大连 degree:1
+edge 大连 to 大石桥 : weight: 202
+
+vertexname:本溪 degree:1
+edge 本溪 to 沈阳 : weight: 88
+
+vertexname:铁岭 degree:3
+edge 铁岭 to 四平 : weight: 110
+edge 铁岭 to 开原 : weight: 32
+edge 铁岭 to 沈阳 : weight: 57
+
+vertexname:四平 degree:5
+edge 四平 to 长春 : weight: 133
+edge 四平 to 昌图 : weight: 67
+edge 四平 to 公主岭 : weight: 47
+edge 四平 to 铁岭 : weight: 110
+edge 四平 to 沈阳 : weight: 173
+
+vertexname:抚顺 degree:1
+edge 抚顺 to 沈阳 : weight: 63
+
+vertexname:长春 degree:6
+edge 长春 to 吉林 : weight: 83
+edge 长春 to 哈尔滨 : weight: 360
+edge 长春 to 营城子 : weight: 68
+edge 长春 to 公主岭 : weight: 59
+edge 长春 to 德惠 : weight: 58
+edge 长春 to 四平 : weight: 133
+
+vertexname:吉林 degree:1
+edge 吉林 to 长春 : weight: 83
+
+vertexname:哈尔滨 degree:5
+edge 哈尔滨 to 大庆 : weight: 132
+edge 哈尔滨 to 佳木斯 : weight: 324
+edge 哈尔滨 to 绥远 : weight: 79
+edge 哈尔滨 to 绥芬河 : weight: 470
+edge 哈尔滨 to 长春 : weight: 360
+
+vertexname:营城子 degree:1
+edge 营城子 to 长春 : weight: 68
+
+vertexname:大庆 degree:1
+edge 大庆 to 哈尔滨 : weight: 132
+
+vertexname:芜湖 degree:4
+edge 芜湖 to 宣城 : weight: 70
+edge 芜湖 to 合肥 : weight: 140
+edge 芜湖 to 当涂 : weight: 32
+edge 芜湖 to 南陵 : weight: 58
+
+vertexname:宣城 degree:4
+edge 宣城 to 杭州 : weight: 130
+edge 宣城 to 广德 : weight: 58
+edge 宣城 to 南陵 : weight: 48
+edge 宣城 to 芜湖 : weight: 70
+
+vertexname:杭州 degree:6
+edge 杭州 to 上虞 : weight: 68
+edge 杭州 to 上海 : weight: 166
+edge 杭州 to 宁波 : weight: 145
+edge 杭州 to 福州 : weight: 190
+edge 杭州 to 留下 : weight: 25
+edge 杭州 to 宣城 : weight: 130
+
+vertexname:上虞 degree:3
+edge 上虞 to 温州 : weight: 90
+edge 上虞 to 三门 : weight: 142
+edge 上虞 to 杭州 : weight: 68
+
+vertexname:温州 degree:2
+edge 温州 to 厚田 : weight: 40
+edge 温州 to 上虞 : weight: 90
+
+vertexname:南昌 degree:4
+edge 南昌 to 九江 : weight: 110
+edge 南昌 to 樟树 : weight: 70
+edge 南昌 to 德安 : weight: 102
+edge 南昌 to 丰城 : weight: 64
+
+vertexname:九江 degree:5
+edge 九江 to 武汉 : weight: 180
+edge 九江 to 景德镇 : weight: 114
+edge 九江 to 黄梅 : weight: 57
+edge 九江 to 庐山 : weight: 35
+edge 九江 to 南昌 : weight: 110
+
+vertexname:武汉 degree:8
+edge 武汉 to 郑州 : weight: 450
+edge 武汉 to 宣昌 : weight: 279
+edge 武汉 to 黄梅 : weight: 142
+edge 武汉 to 天河机场 : weight: 18
+edge 武汉 to 长沙 : weight: 270
+edge 武汉 to 黄陂 : weight: 53
+edge 武汉 to 仙桃 : weight: 111
+edge 武汉 to 九江 : weight: 180
+
+vertexname:潍坊 degree:6
+edge 潍坊 to 青州 : weight: 100
+edge 潍坊 to 淄博 : weight: 108
+edge 潍坊 to 青岛 : weight: 112
+edge 潍坊 to 莱阳 : weight: 140
+edge 潍坊 to 寒亭 : weight: 15
+edge 潍坊 to 坊子 : weight: 13
+
+vertexname:青州 degree:2
+edge 青州 to 东营市 : weight: 90
+edge 青州 to 潍坊 : weight: 100
+
+vertexname:青岛 degree:5
+edge 青岛 to 日照 : weight: 123
+edge 青岛 to 即墨 : weight: 40
+edge 青岛 to 威海 : weight: 100
+edge 青岛 to 乳山 : weight: 89
+edge 青岛 to 潍坊 : weight: 112
+
+vertexname:日照 degree:2
+edge 日照 to 竹园 : weight: 110
+edge 日照 to 青岛 : weight: 123
+
+vertexname:佳木斯 degree:1
+edge 佳木斯 to 哈尔滨 : weight: 324
+
+vertexname:绥远 degree:1
+edge 绥远 to 哈尔滨 : weight: 79
+
+vertexname:绥芬河 degree:1
+edge 绥芬河 to 哈尔滨 : weight: 470
+
+vertexname:南京 degree:9
+edge 南京 to 常州 : weight: 113
+edge 南京 to 马鞍山 : weight: 27
+edge 南京 to 南通 : weight: 214
+edge 南京 to 高淳 : weight: 49
+edge 南京 to 合肥 : weight: 134
+edge 南京 to 济南 : weight: 509
+edge 南京 to 六合 : weight: 44
+edge 南京 to 镇江 : weight: 75
+edge 南京 to 全椒 : weight: 73
+
+vertexname:常州 degree:3
+edge 常州 to 无锡 : weight: 36
+edge 常州 to 丹阳 : weight: 49
+edge 常州 to 南京 : weight: 113
+
+vertexname:无锡 degree:2
+edge 无锡 to 苏州 : weight: 42
+edge 无锡 to 常州 : weight: 36
+
+vertexname:苏州 degree:3
+edge 苏州 to 上海 : weight: 83
+edge 苏州 to 昆山 : weight: 40
+edge 苏州 to 无锡 : weight: 42
+
+vertexname:上海 degree:4
+edge 上海 to 嘉定 : weight: 24
+edge 上海 to 昆山 : weight: 84
+edge 上海 to 苏州 : weight: 83
+edge 上海 to 杭州 : weight: 166
+
+vertexname:即墨 degree:2
+edge 即墨 to 乳山 : weight: 130
+edge 即墨 to 青岛 : weight: 40
+
+vertexname:威海 degree:3
+edge 威海 to 烟台 : weight: 134
+edge 威海 to 乳山 : weight: 90
+edge 威海 to 青岛 : weight: 100
+
+vertexname:烟台 degree:2
+edge 烟台 to 蓬莱 : weight: 74
+edge 烟台 to 威海 : weight: 134
+
+vertexname:乳山 degree:3
+edge 乳山 to 威海 : weight: 90
+edge 乳山 to 即墨 : weight: 130
+edge 乳山 to 青岛 : weight: 89
+
+vertexname:宁波 degree:2
+edge 宁波 to 北仑 : weight: 31
+edge 宁波 to 杭州 : weight: 145
+
+vertexname:北仑 degree:1
+edge 北仑 to 宁波 : weight: 31
+
+vertexname:菏泽 degree:1
+edge 菏泽 to 济南 : weight: 180
+
+vertexname:济南 degree:6
+edge 济南 to 东明 : weight: 34
+edge 济南 to 淄博 : weight: 110
+edge 济南 to 联城 : weight: 90
+edge 济南 to 菏泽 : weight: 180
+edge 济南 to 南京 : weight: 509
+edge 济南 to 天津 : weight: 247
+
+vertexname:东明 degree:3
+edge 东明 to 博山 : weight: 89
+edge 东明 to 荷泽 : weight: 37
+edge 东明 to 济南 : weight: 34
+
+vertexname:博山 degree:3
+edge 博山 to 莱芜 : weight: 67
+edge 博山 to 淄川 : weight: 21
+edge 博山 to 东明 : weight: 89
+
+vertexname:莱芜 degree:3
+edge 莱芜 to 枣庄 : weight: 90
+edge 莱芜 to 新泰 : weight: 43
+edge 莱芜 to 博山 : weight: 67
+
+vertexname:枣庄 degree:4
+edge 枣庄 to 木石 : weight: 13
+edge 枣庄 to 兰陵 : weight: 49
+edge 枣庄 to 峄城 : weight: 10
+edge 枣庄 to 莱芜 : weight: 90
+
+vertexname:木石 degree:2
+edge 木石 to 泰安 : weight: 98
+edge 木石 to 枣庄 : weight: 13
+
+vertexname:泰安 degree:2
+edge 泰安 to 张山子 : weight: 190
+edge 泰安 to 木石 : weight: 98
+
+vertexname:嘉定 degree:2
+edge 嘉定 to 太仓 : weight: 17
+edge 嘉定 to 上海 : weight: 24
+
+vertexname:太仓 degree:1
+edge 太仓 to 嘉定 : weight: 17
+
+vertexname:福州 degree:2
+edge 福州 to 泉州 : weight: 40
+edge 福州 to 杭州 : weight: 190
+
+vertexname:泉州 degree:2
+edge 泉州 to 厦门 : weight: 34
+edge 泉州 to 福州 : weight: 40
+
+vertexname:厦门 degree:2
+edge 厦门 to 漳州 : weight: 19
+edge 厦门 to 泉州 : weight: 34
+
+vertexname:漳州 degree:2
+edge 漳州 to 厚田 : weight: 19
+edge 漳州 to 厦门 : weight: 19
+
+vertexname:厚田 degree:2
+edge 厚田 to 漳州 : weight: 19
+edge 厚田 to 温州 : weight: 40
+
+vertexname:马鞍山 degree:2
+edge 马鞍山 to 当涂 : weight: 19
+edge 马鞍山 to 南京 : weight: 27
+
+vertexname:南通 degree:1
+edge 南通 to 南京 : weight: 214
+
+vertexname:高淳 degree:1
+edge 高淳 to 南京 : weight: 49
+
+vertexname:三门 degree:1
+edge 三门 to 上虞 : weight: 142
+
+vertexname:留下 degree:1
+edge 留下 to 杭州 : weight: 25
+
+vertexname:合肥 degree:8
+edge 合肥 to 三角兀 : weight: 13
+edge 合肥 to 蚌埠 : weight: 112
+edge 合肥 to 淮南 : weight: 115
+edge 合肥 to 肥西 : weight: 20
+edge 合肥 to 肥东 : weight: 16
+edge 合肥 to 六安 : weight: 79
+edge 合肥 to 南京 : weight: 134
+edge 合肥 to 芜湖 : weight: 140
+
+vertexname:三角兀 degree:2
+edge 三角兀 to 西潘楼 : weight: 50
+edge 三角兀 to 合肥 : weight: 13
+
+vertexname:西潘楼 degree:1
+edge 西潘楼 to 三角兀 : weight: 50
+
+vertexname:广德 degree:2
+edge 广德 to 长兴 : weight: 55
+edge 广德 to 宣城 : weight: 58
+
+vertexname:岱家山 degree:1
+edge 岱家山 to 黄陂 : weight: 67
+
+vertexname:黄陂 degree:4
+edge 黄陂 to 长沙 : weight: 13
+edge 黄陂 to 新洲 : weight: 52
+edge 黄陂 to 岱家山 : weight: 67
+edge 黄陂 to 武汉 : weight: 53
+
+vertexname:长沙 degree:7
+edge 长沙 to 益场 : weight: 24
+edge 长沙 to 湘潭 : weight: 23
+edge 长沙 to 浏阳 : weight: 34
+edge 长沙 to 广州 : weight: 372
+edge 长沙 to 柳州 : weight: 500
+edge 长沙 to 黄陂 : weight: 13
+edge 长沙 to 武汉 : weight: 270
+
+vertexname:益场 degree:2
+edge 益场 to 常德 : weight: 80
+edge 益场 to 长沙 : weight: 24
+
+vertexname:常德 degree:3
+edge 常德 to 澧 : weight: 81
+edge 常德 to 涟源 : weight: 224
+edge 常德 to 益场 : weight: 80
+
+vertexname:湘潭 degree:2
+edge 湘潭 to 耒阳 : weight: 18
+edge 湘潭 to 长沙 : weight: 23
+
+vertexname:耒阳 degree:2
+edge 耒阳 to 宣章 : weight: 135
+edge 耒阳 to 湘潭 : weight: 18
+
+vertexname:郑州 degree:7
+edge 郑州 to 开封 : weight: 81
+edge 郑州 to 新乡 : weight: 81
+edge 郑州 to 许昌 : weight: 94
+edge 郑州 to 巩义 : weight: 79
+edge 郑州 to 武汉 : weight: 450
+edge 郑州 to 洛阳 : weight: 121
+edge 郑州 to 石家庄 : weight: 380
+
+vertexname:蚌埠 degree:1
+edge 蚌埠 to 合肥 : weight: 112
+
+vertexname:樟树 degree:3
+edge 樟树 to 丰城 : weight: 26
+edge 樟树 to 新干 : weight: 40
+edge 樟树 to 南昌 : weight: 70
+
+vertexname:景德镇 degree:3
+edge 景德镇 to 东至 : weight: 140
+edge 景德镇 to 乐平 : weight: 44
+edge 景德镇 to 九江 : weight: 114
+
+vertexname:淄博 degree:4
+edge 淄博 to 桓台 : weight: 24
+edge 淄博 to 淄川 : weight: 19
+edge 淄博 to 济南 : weight: 110
+edge 淄博 to 潍坊 : weight: 108
+
+vertexname:莱阳 degree:1
+edge 莱阳 to 潍坊 : weight: 140
+
+vertexname:竹园 degree:1
+edge 竹园 to 日照 : weight: 110
+
+vertexname:联城 degree:2
+edge 联城 to 馆陶 : weight: 64
+edge 联城 to 济南 : weight: 90
+
+vertexname:馆陶 degree:1
+edge 馆陶 to 联城 : weight: 64
+
+vertexname:东营港 degree:1
+edge 东营港 to 东营市 : weight: 80
+
+vertexname:东营市 degree:2
+edge 东营市 to 东营港 : weight: 80
+edge 东营市 to 青州 : weight: 90
+
+vertexname:荷泽 degree:1
+edge 荷泽 to 东明 : weight: 37
+
+vertexname:张山子 degree:1
+edge 张山子 to 泰安 : weight: 190
+
+vertexname:开封 degree:3
+edge 开封 to 商丘芒山 : weight: 203
+edge 开封 to 兰考 : weight: 48
+edge 开封 to 郑州 : weight: 81
+
+vertexname:新乡 degree:2
+edge 新乡 to 郑州 : weight: 81
+edge 新乡 to 安阳 : weight: 122
+
+vertexname:许昌 degree:2
+edge 许昌 to 漯河 : weight: 49
+edge 许昌 to 郑州 : weight: 94
+
+vertexname:漯河 degree:2
+edge 漯河 to 驻马店 : weight: 67
+edge 漯河 to 许昌 : weight: 49
+
+vertexname:驻马店 degree:1
+edge 驻马店 to 漯河 : weight: 67
+
+vertexname:商丘芒山 degree:1
+edge 商丘芒山 to 开封 : weight: 203
+
+vertexname:灵宝 degree:3
+edge 灵宝 to 三门峡 : weight: 60
+edge 灵宝 to 潼关 : weight: 74
+edge 灵宝 to 洛阳 : weight: 205
+
+vertexname:宣昌 degree:1
+edge 宣昌 to 武汉 : weight: 279
+
+vertexname:黄梅 degree:3
+edge 黄梅 to 宿松 : weight: 23
+edge 黄梅 to 武汉 : weight: 142
+edge 黄梅 to 九江 : weight: 57
+
+vertexname:天河机场 degree:1
+edge 天河机场 to 武汉 : weight: 18
+
+vertexname:浏阳 degree:1
+edge 浏阳 to 长沙 : weight: 34
+
+vertexname:广州 degree:10
+edge 广州 to 深圳 : weight: 122
+edge 广州 to 珠海 : weight: 135
+edge 广州 to 佛山 : weight: 23
+edge 广州 to 花都 : weight: 22
+edge 广州 to 中山 : weight: 67
+edge 广州 to 江门 : weight: 13
+edge 广州 to 三水 : weight: 45
+edge 广州 to 清远 : weight: 47
+edge 广州 to 惠州 : weight: 153
+edge 广州 to 长沙 : weight: 372
+
+vertexname:宣章 degree:1
+edge 宣章 to 耒阳 : weight: 135
+
+vertexname:深圳 degree:3
+edge 深圳 to 汕头 : weight: 286
+edge 深圳 to 惠州 : weight: 64
+edge 深圳 to 广州 : weight: 122
+
+vertexname:汕头 degree:6
+edge 汕头 to 汾水关 : weight: 67
+edge 汕头 to 揭阳 : weight: 50
+edge 汕头 to 普宁 : weight: 67
+edge 汕头 to 梅州 : weight: 86
+edge 汕头 to 丰顺 : weight: 36
+edge 汕头 to 深圳 : weight: 286
+
+vertexname:汾水关 degree:1
+edge 汾水关 to 汕头 : weight: 67
+
+vertexname:珠海 degree:3
+edge 珠海 to 阳江 : weight: 149
+edge 珠海 to 中山 : weight: 22
+edge 珠海 to 广州 : weight: 135
+
+vertexname:大沥 degree:1
+edge 大沥 to 三水 : weight: 30
+
+vertexname:三水 degree:3
+edge 三水 to 肇庆 : weight: 62
+edge 三水 to 大沥 : weight: 30
+edge 三水 to 广州 : weight: 45
+
+vertexname:佛山 degree:2
+edge 佛山 to 开平 : weight: 80
+edge 佛山 to 广州 : weight: 23
+
+vertexname:开平 degree:1
+edge 开平 to 佛山 : weight: 80
+
+vertexname:花都 degree:1
+edge 花都 to 广州 : weight: 22
+
+vertexname:惠州 degree:4
+edge 惠州 to 惠来 : weight: 90
+edge 惠州 to 河源 : weight: 81
+edge 惠州 to 深圳 : weight: 64
+edge 惠州 to 广州 : weight: 153
+
+vertexname:南宁 degree:7
+edge 南宁 to 柳州 : weight: 222
+edge 南宁 to 钦州 : weight: 119
+edge 南宁 to 罗村口 : weight: 76
+edge 南宁 to 坛洛 : weight: 15
+edge 南宁 to 都安 : weight: 141
+edge 南宁 to 友谊关 : weight: 179
+edge 南宁 to 武鸣 : weight: 41
+
+vertexname:柳州 degree:7
+edge 柳州 to 桂林 : weight: 151
+edge 柳州 to 宣州 : weight: 113
+edge 柳州 to 宜州 : weight: 113
+edge 柳州 to 融安 : weight: 119
+edge 柳州 to 武宣 : weight: 95
+edge 柳州 to 南宁 : weight: 222
+edge 柳州 to 长沙 : weight: 500
+
+vertexname:桂林 degree:1
+edge 桂林 to 柳州 : weight: 151
+
+vertexname:钦州 degree:3
+edge 钦州 to 北海 : weight: 120
+edge 钦州 to 全州 : weight: 90
+edge 钦州 to 南宁 : weight: 119
+
+vertexname:北海 degree:4
+edge 北海 to 山口 : weight: 37
+edge 北海 to 海口 : weight: 200
+edge 北海 to 合浦 : weight: 28
+edge 北海 to 钦州 : weight: 120
+
+vertexname:宣州 degree:1
+edge 宣州 to 柳州 : weight: 113
+
+vertexname:海口 degree:3
+edge 海口 to 三亚 : weight: 268
+edge 海口 to 文昌 : weight: 52
+edge 海口 to 北海 : weight: 200
+
+vertexname:三亚 degree:1
+edge 三亚 to 海口 : weight: 268
+
+vertexname:重庆 degree:8
+edge 重庆 to 达州 : weight: 220
+edge 重庆 to 长寿 : weight: 86
+edge 重庆 to 隆昌 : weight: 139
+edge 重庆 to 贵阳 : weight: 300
+edge 重庆 to 邻水 : weight: 54
+edge 重庆 to 渝北 : weight: 26
+edge 重庆 to 巴南 : weight: 31
+edge 重庆 to 沙坪坝 : weight: 12
+
+vertexname:达州 degree:4
+edge 达州 to 邻水 : weight: 134
+edge 达州 to 万源 : weight: 151
+edge 达州 to 大竹 : weight: 75
+edge 达州 to 重庆 : weight: 220
+
+vertexname:长寿 degree:2
+edge 长寿 to 涪陵 : weight: 33
+edge 长寿 to 重庆 : weight: 86
+
+vertexname:涪陵 degree:1
+edge 涪陵 to 长寿 : weight: 33
+
+vertexname:成都 degree:11
+edge 成都 to 内江 : weight: 163
+edge 成都 to 绵阳 : weight: 103
+edge 成都 to 雅安 : weight: 139
+edge 成都 to 乐山 : weight: 87
+edge 成都 to 都江堰 : weight: 40
+edge 成都 to 西安 : weight: 600
+edge 成都 to 南充 : weight: 215
+edge 成都 to 崇州 : weight: 24
+edge 成都 to 简阳 : weight: 73
+edge 成都 to 双流 : weight: 14
+edge 成都 to 新都 : weight: 19
+
+vertexname:内江 degree:3
+edge 内江 to 隆昌 : weight: 38
+edge 内江 to 自贡 : weight: 40
+edge 内江 to 成都 : weight: 163
+
+vertexname:隆昌 degree:4
+edge 隆昌 to 纳溪 : weight: 88
+edge 隆昌 to 泸州 : weight: 88
+edge 隆昌 to 内江 : weight: 38
+edge 隆昌 to 重庆 : weight: 139
+
+vertexname:绵阳 degree:4
+edge 绵阳 to 广元 : weight: 136
+edge 绵阳 to 梓潼 : weight: 43
+edge 绵阳 to 罗江 : weight: 37
+edge 绵阳 to 成都 : weight: 103
+
+vertexname:雅安 degree:4
+edge 雅安 to 名山 : weight: 10
+edge 雅安 to 天全 : weight: 37
+edge 雅安 to 荥经 : weight: 45
+edge 雅安 to 成都 : weight: 139
+
+vertexname:揭阳 degree:2
+edge 揭阳 to 普宁 : weight: 46
+edge 揭阳 to 汕头 : weight: 50
+
+vertexname:普宁 degree:3
+edge 普宁 to 惠来 : weight: 19
+edge 普宁 to 揭阳 : weight: 46
+edge 普宁 to 汕头 : weight: 67
+
+vertexname:惠来 degree:2
+edge 惠来 to 普宁 : weight: 19
+edge 惠来 to 惠州 : weight: 90
+
+vertexname:乐山 degree:1
+edge 乐山 to 成都 : weight: 87
+
+vertexname:嘉峪关 degree:2
+edge 嘉峪关 to 酒泉 : weight: 90
+edge 嘉峪关 to 玉门 : weight: 13
+
+vertexname:酒泉 degree:4
+edge 酒泉 to 兰州 : weight: 67
+edge 酒泉 to 嘉峪关市 : weight: 96
+edge 酒泉 to 临泽 : weight: 181
+edge 酒泉 to 嘉峪关 : weight: 90
+
+vertexname:兰州 degree:8
+edge 兰州 to 中川 : weight: 74
+edge 兰州 to 西安 : weight: 465
+edge 兰州 to 西宁 : weight: 260
+edge 兰州 to 吐鲁番 : weight: 1500
+edge 兰州 to 榆中 : weight: 46
+edge 兰州 to 永登 : weight: 99
+edge 兰州 to 临洮 : weight: 104
+edge 兰州 to 酒泉 : weight: 67
+
+vertexname:都江堰 degree:1
+edge 都江堰 to 成都 : weight: 40
+
+vertexname:自贡 degree:3
+edge 自贡 to 宣宾 : weight: 68
+edge 自贡 to 宜宾 : weight: 68
+edge 自贡 to 内江 : weight: 40
+
+vertexname:宣宾 degree:1
+edge 宣宾 to 自贡 : weight: 68
+
+vertexname:纳溪 degree:3
+edge 纳溪 to 泸沽 : weight: 90
+edge 纳溪 to 贵阳 : weight: 13
+edge 纳溪 to 隆昌 : weight: 88
+
+vertexname:泸沽 degree:3
+edge 泸沽 to 黄联关 : weight: 47
+edge 泸沽 to 西昌 : weight: 47
+edge 泸沽 to 纳溪 : weight: 90
+
+vertexname:黄联关 degree:1
+edge 黄联关 to 泸沽 : weight: 47
+
+vertexname:贵阳 degree:9
+edge 贵阳 to 都匀 : weight: 143
+edge 贵阳 to 黄果树 : weight: 137
+edge 贵阳 to 遵义 : weight: 135
+edge 贵阳 to 毕节 : weight: 214
+edge 贵阳 to 昆明 : weight: 400
+edge 贵阳 to 息烽 : weight: 74
+edge 贵阳 to 龙里 : weight: 37
+edge 贵阳 to 纳溪 : weight: 13
+edge 贵阳 to 重庆 : weight: 300
+
+vertexname:都匀 degree:4
+edge 都匀 to 新泰 : weight: 127
+edge 都匀 to 贵定 : weight: 96
+edge 都匀 to 独山 : weight: 67
+edge 都匀 to 贵阳 : weight: 143
+
+vertexname:新泰 degree:3
+edge 新泰 to 蒙阴 : weight: 28
+edge 新泰 to 都匀 : weight: 127
+edge 新泰 to 莱芜 : weight: 43
+
+vertexname:黄果树 degree:1
+edge 黄果树 to 贵阳 : weight: 137
+
+vertexname:遵义 degree:3
+edge 遵义 to 桐梓 : weight: 62
+edge 遵义 to 息烽 : weight: 91
+edge 遵义 to 贵阳 : weight: 135
+
+vertexname:叶盛 degree:2
+edge 叶盛 to 王圈梁 : weight: 90
+edge 叶盛 to 银川 : weight: 41
+
+vertexname:王圈梁 degree:2
+edge 王圈梁 to 古窑子 : weight: 89
+edge 王圈梁 to 叶盛 : weight: 90
+
+vertexname:古窑子 degree:1
+edge 古窑子 to 王圈梁 : weight: 89
+
+vertexname:毕节 degree:3
+edge 毕节 to 凯里 : weight: 15
+edge 毕节 to 麻江 : weight: 34
+edge 毕节 to 贵阳 : weight: 214
+
+vertexname:麻江 degree:2
+edge 麻江 to 凯里 : weight: 51
+edge 麻江 to 毕节 : weight: 34
+
+vertexname:凯里 degree:2
+edge 凯里 to 麻江 : weight: 51
+edge 凯里 to 毕节 : weight: 15
+
+vertexname:中山 degree:4
+edge 中山 to 江门 : weight: 32
+edge 中山 to 顺德 : weight: 66
+edge 中山 to 珠海 : weight: 22
+edge 中山 to 广州 : weight: 67
+
+vertexname:江门 degree:2
+edge 江门 to 中山 : weight: 32
+edge 江门 to 广州 : weight: 13
+
+vertexname:白色 degree:1
+edge 白色 to 全州 : weight: 78
+
+vertexname:全州 degree:3
+edge 全州 to 黄沙河 : weight: 22
+edge 全州 to 白色 : weight: 78
+edge 全州 to 钦州 : weight: 90
+
+vertexname:罗村口 degree:3
+edge 罗村口 to 六景 : weight: 23
+edge 罗村口 to 百色 : weight: 56
+edge 罗村口 to 南宁 : weight: 76
+
+vertexname:六景 degree:3
+edge 六景 to 苍梧 : weight: 45
+edge 六景 to 兴业 : weight: 101
+edge 六景 to 罗村口 : weight: 23
+
+vertexname:苍梧 degree:2
+edge 苍梧 to 郁南 : weight: 33
+edge 苍梧 to 六景 : weight: 45
+
+vertexname:郁南 degree:1
+edge 郁南 to 苍梧 : weight: 33
+
+vertexname:昆明 degree:5
+edge 昆明 to 楚雄 : weight: 168
+edge 昆明 to 曲靖 : weight: 130
+edge 昆明 to 玉溪 : weight: 87
+edge 昆明 to 富民 : weight: 63
+edge 昆明 to 贵阳 : weight: 400
+
+vertexname:楚雄 degree:2
+edge 楚雄 to 大理 : weight: 187
+edge 楚雄 to 昆明 : weight: 168
+
+vertexname:大理 degree:1
+edge 大理 to 楚雄 : weight: 187
+
+vertexname:曲靖 degree:2
+edge 曲靖 to 陆良 : weight: 63
+edge 曲靖 to 昆明 : weight: 130
+
+vertexname:陆良 degree:1
+edge 陆良 to 曲靖 : weight: 63
+
+vertexname:玉溪 degree:2
+edge 玉溪 to 元江 : weight: 114
+edge 玉溪 to 昆明 : weight: 87
+
+vertexname:元江 degree:1
+edge 元江 to 玉溪 : weight: 114
+
+vertexname:西安 degree:13
+edge 西安 to 宝鸡 : weight: 155
+edge 西安 to 桐川 : weight: 101
+edge 西安 to 渭南 : weight: 65
+edge 西安 to 兰田 : weight: 49
+edge 西安 to 银川 : weight: 400
+edge 西安 to 三原 : weight: 38
+edge 西安 to 宁陕 : weight: 184
+edge 西安 to 周至 : weight: 68
+edge 西安 to 蓝田 : weight: 65
+edge 西安 to 咸阳 : weight: 20
+edge 西安 to 兰州 : weight: 465
+edge 西安 to 成都 : weight: 600
+edge 西安 to 洛阳 : weight: 300
+
+vertexname:宝鸡 degree:3
+edge 宝鸡 to 天水 : weight: 185
+edge 宝鸡 to 眉 : weight: 67
+edge 宝鸡 to 西安 : weight: 155
+
+vertexname:桐川 degree:2
+edge 桐川 to 黄陆 : weight: 94
+edge 桐川 to 西安 : weight: 101
+
+vertexname:黄陆 degree:1
+edge 黄陆 to 桐川 : weight: 94
+
+vertexname:渭南 degree:3
+edge 渭南 to 潼关 : weight: 79
+edge 渭南 to 韩城 : weight: 115
+edge 渭南 to 西安 : weight: 65
+
+vertexname:潼关 degree:2
+edge 潼关 to 渭南 : weight: 79
+edge 潼关 to 灵宝 : weight: 74
+
+vertexname:兰田 degree:1
+edge 兰田 to 西安 : weight: 49
+
+vertexname:天水 degree:1
+edge 天水 to 宝鸡 : weight: 185
+
+vertexname:中川 degree:1
+edge 中川 to 兰州 : weight: 74
+
+vertexname:银川 degree:4
+edge 银川 to 姚伏 : weight: 42
+edge 银川 to 西宁 : weight: 400
+edge 银川 to 西安 : weight: 400
+edge 银川 to 叶盛 : weight: 41
+
+vertexname:姚伏 degree:2
+edge 姚伏 to 石嘴山 : weight: 63
+edge 姚伏 to 银川 : weight: 42
+
+vertexname:石嘴山 degree:1
+edge 石嘴山 to 姚伏 : weight: 63
+
+vertexname:吐鲁蕃 degree:1
+edge 吐鲁蕃 to 乌鲁木齐 : weight: 151
+
+vertexname:乌鲁木齐 degree:5
+edge 乌鲁木齐 to 大黄山 : weight: 132
+edge 乌鲁木齐 to 奎屯 : weight: 265
+edge 乌鲁木齐 to 吐鲁番 : weight: 164
+edge 乌鲁木齐 to 昌吉 : weight: 38
+edge 乌鲁木齐 to 吐鲁蕃 : weight: 151
+
+vertexname:大黄山 degree:1
+edge 大黄山 to 乌鲁木齐 : weight: 132
+
+vertexname:奎屯 degree:1
+edge 奎屯 to 乌鲁木齐 : weight: 265
+
+vertexname:平安 degree:1
+edge 平安 to 西宁 : weight: 35
+
+vertexname:西宁 degree:3
+edge 西宁 to 平安 : weight: 35
+edge 西宁 to 银川 : weight: 400
+edge 西宁 to 兰州 : weight: 260
+
+vertexname:嘉峪关市 degree:1
+edge 嘉峪关市 to 酒泉 : weight: 96
+
+vertexname:遂溪 degree:1
+edge 遂溪 to 湛江 : weight: 73
+
+vertexname:湛江 degree:4
+edge 湛江 to 山口 : weight: 73
+edge 湛江 to 化州 : weight: 57
+edge 湛江 to 雷州 : weight: 69
+edge 湛江 to 遂溪 : weight: 73
+
+vertexname:肇庆 degree:2
+edge 肇庆 to 云浮 : weight: 37
+edge 肇庆 to 三水 : weight: 62
+
+vertexname:云浮 degree:1
+edge 云浮 to 肇庆 : weight: 37
+
+vertexname:清远 degree:1
+edge 清远 to 广州 : weight: 47
+
+vertexname:河源 degree:3
+edge 河源 to 上陵 : weight: 136
+edge 河源 to 东源 : weight: 18
+edge 河源 to 惠州 : weight: 81
+
+vertexname:上陵 degree:1
+edge 上陵 to 河源 : weight: 136
+
+vertexname:热水 degree:1
+edge 热水 to 梅州 : weight: 166
+
+vertexname:梅州 degree:6
+edge 梅州 to 平远 : weight: 48
+edge 梅州 to 丰顺 : weight: 113
+edge 梅州 to 蕉岭 : weight: 46
+edge 梅州 to 梅 : weight: 8
+edge 梅州 to 热水 : weight: 166
+edge 梅州 to 汕头 : weight: 86
+
+vertexname:阳江 degree:1
+edge 阳江 to 珠海 : weight: 149
+
+vertexname:黄沙河 degree:1
+edge 黄沙河 to 全州 : weight: 22
+
+vertexname:坛洛 degree:1
+edge 坛洛 to 南宁 : weight: 15
+
+vertexname:百色 degree:1
+edge 百色 to 罗村口 : weight: 56
+
+vertexname:都安 degree:3
+edge 都安 to 南丹 : weight: 173
+edge 都安 to 马山 : weight: 29
+edge 都安 to 南宁 : weight: 141
+
+vertexname:山口 degree:2
+edge 山口 to 湛江 : weight: 73
+edge 山口 to 北海 : weight: 37
+
+vertexname:宜州 degree:1
+edge 宜州 to 柳州 : weight: 113
+
+vertexname:兴业 degree:1
+edge 兴业 to 六景 : weight: 101
+
+vertexname:友谊关 degree:1
+edge 友谊关 to 南宁 : weight: 179
+
+vertexname:文昌 degree:1
+edge 文昌 to 海口 : weight: 52
+
+vertexname:广元 degree:5
+edge 广元 to 勉 : weight: 130
+edge 广元 to 剑阁 : weight: 58
+edge 广元 to 武都 : weight: 208
+edge 广元 to 元坝 : weight: 24
+edge 广元 to 绵阳 : weight: 136
+
+vertexname:西昌 degree:3
+edge 西昌 to 冕宁 : weight: 61
+edge 西昌 to 会理 : weight: 205
+edge 西昌 to 泸沽 : weight: 47
+
+vertexname:宜宾 degree:1
+edge 宜宾 to 自贡 : weight: 68
+
+vertexname:泸州 degree:1
+edge 泸州 to 隆昌 : weight: 88
+
+vertexname:南充 degree:5
+edge 南充 to 广安 : weight: 70
+edge 南充 to 蓬安 : weight: 45
+edge 南充 to 蓬溪 : weight: 53
+edge 南充 to 西充 : weight: 38
+edge 南充 to 成都 : weight: 215
+
+vertexname:广安 degree:3
+edge 广安 to 邻水 : weight: 45
+edge 广安 to 合川 : weight: 39
+edge 广安 to 南充 : weight: 70
+
+vertexname:邻水 degree:5
+edge 邻水 to 大竹 : weight: 65
+edge 邻水 to 渝北 : weight: 93
+edge 邻水 to 广安 : weight: 45
+edge 邻水 to 达州 : weight: 134
+edge 邻水 to 重庆 : weight: 54
+
+vertexname:吐鲁番 degree:3
+edge 吐鲁番 to 鄯善 : weight: 94
+edge 吐鲁番 to 乌鲁木齐 : weight: 164
+edge 吐鲁番 to 兰州 : weight: 1500
+
+vertexname:崇州 degree:2
+edge 崇州 to 邛崃 : weight: 41
+edge 崇州 to 成都 : weight: 24
+
+vertexname:邛崃 degree:3
+edge 邛崃 to 新津 : weight: 7
+edge 邛崃 to 名山 : weight: 95
+edge 邛崃 to 崇州 : weight: 41
+
+vertexname:蓬莱 degree:2
+edge 蓬莱 to 龙口 : weight: 50
+edge 蓬莱 to 烟台 : weight: 74
+
+vertexname:龙口 degree:2
+edge 龙口 to 莱州 : weight: 68
+edge 龙口 to 蓬莱 : weight: 50
+
+vertexname:莱州 degree:2
+edge 莱州 to 昌邑 : weight: 67
+edge 莱州 to 龙口 : weight: 68
+
+vertexname:昌邑 degree:2
+edge 昌邑 to 寒亭 : weight: 18
+edge 昌邑 to 莱州 : weight: 67
+
+vertexname:寒亭 degree:2
+edge 寒亭 to 昌邑 : weight: 18
+edge 寒亭 to 潍坊 : weight: 15
+
+vertexname:坊子 degree:2
+edge 坊子 to 安丘 : weight: 18
+edge 坊子 to 潍坊 : weight: 13
+
+vertexname:安丘 degree:2
+edge 安丘 to 诸城 : weight: 64
+edge 安丘 to 坊子 : weight: 18
+
+vertexname:诸城 degree:2
+edge 诸城 to 莒县 : weight: 84
+edge 诸城 to 安丘 : weight: 64
+
+vertexname:莒县 degree:2
+edge 莒县 to 临沂 : weight: 75
+edge 莒县 to 诸城 : weight: 84
+
+vertexname:临沂 degree:4
+edge 临沂 to 罗庄 : weight: 9
+edge 临沂 to 蒙阴 : weight: 92
+edge 临沂 to 郯城 : weight: 56
+edge 临沂 to 莒县 : weight: 75
+
+vertexname:罗庄 degree:2
+edge 罗庄 to 兰陵 : weight: 31
+edge 罗庄 to 临沂 : weight: 9
+
+vertexname:兰陵 degree:2
+edge 兰陵 to 罗庄 : weight: 31
+edge 兰陵 to 枣庄 : weight: 49
+
+vertexname:峄城 degree:2
+edge 峄城 to 贾汪 : weight: 46
+edge 峄城 to 枣庄 : weight: 10
+
+vertexname:贾汪 degree:2
+edge 贾汪 to 徐州 : weight: 109
+edge 贾汪 to 峄城 : weight: 46
+
+vertexname:徐州 degree:4
+edge 徐州 to 宿州 : weight: 82
+edge 徐州 to 连云港 : weight: 262
+edge 徐州 to 砀山 : weight: 84
+edge 徐州 to 贾汪 : weight: 109
+
+vertexname:宿州 degree:2
+edge 宿州 to 淮南 : weight: 133
+edge 宿州 to 徐州 : weight: 82
+
+vertexname:淮南 degree:2
+edge 淮南 to 宿州 : weight: 133
+edge 淮南 to 合肥 : weight: 115
+
+vertexname:肥西 degree:2
+edge 肥西 to 舒城 : weight: 32
+edge 肥西 to 合肥 : weight: 20
+
+vertexname:舒城 degree:2
+edge 舒城 to 桐城 : weight: 56
+edge 舒城 to 肥西 : weight: 32
+
+vertexname:桐城 degree:2
+edge 桐城 to 怀宁 : weight: 38
+edge 桐城 to 舒城 : weight: 56
+
+vertexname:怀宁 degree:2
+edge 怀宁 to 安庆 : weight: 37
+edge 怀宁 to 桐城 : weight: 38
+
+vertexname:安庆 degree:4
+edge 安庆 to 东至 : weight: 56
+edge 安庆 to 贵池 : weight: 68
+edge 安庆 to 潜山 : weight: 37
+edge 安庆 to 怀宁 : weight: 37
+
+vertexname:东至 degree:2
+edge 东至 to 安庆 : weight: 56
+edge 东至 to 景德镇 : weight: 140
+
+vertexname:乐平 degree:2
+edge 乐平 to 鹰潭 : weight: 106
+edge 乐平 to 景德镇 : weight: 44
+
+vertexname:鹰潭 degree:2
+edge 鹰潭 to 金溪 : weight: 50
+edge 鹰潭 to 乐平 : weight: 106
+
+vertexname:金溪 degree:2
+edge 金溪 to 南城 : weight: 46
+edge 金溪 to 鹰潭 : weight: 50
+
+vertexname:南城 degree:2
+edge 南城 to 南丰 : weight: 44
+edge 南城 to 金溪 : weight: 46
+
+vertexname:南丰 degree:2
+edge 南丰 to 广昌 : weight: 56
+edge 南丰 to 南城 : weight: 44
+
+vertexname:广昌 degree:2
+edge 广昌 to 石城 : weight: 72
+edge 广昌 to 南丰 : weight: 56
+
+vertexname:石城 degree:2
+edge 石城 to 瑞金 : weight: 72
+edge 石城 to 广昌 : weight: 72
+
+vertexname:瑞金 degree:2
+edge 瑞金 to 会昌 : weight: 44
+edge 瑞金 to 石城 : weight: 72
+
+vertexname:会昌 degree:2
+edge 会昌 to 寻乌 : weight: 111
+edge 会昌 to 瑞金 : weight: 44
+
+vertexname:寻乌 degree:2
+edge 寻乌 to 平远 : weight: 61
+edge 寻乌 to 会昌 : weight: 111
+
+vertexname:平远 degree:2
+edge 平远 to 寻乌 : weight: 61
+edge 平远 to 梅州 : weight: 48
+
+vertexname:丰顺 degree:2
+edge 丰顺 to 梅州 : weight: 113
+edge 丰顺 to 汕头 : weight: 36
+
+vertexname:山海关 degree:3
+edge 山海关 to 秦皇岛 : weight: 21
+edge 山海关 to 抚宁 : weight: 49
+edge 山海关 to 绥中 : weight: 65
+
+vertexname:秦皇岛 degree:2
+edge 秦皇岛 to 昌黎 : weight: 48
+edge 秦皇岛 to 山海关 : weight: 21
+
+vertexname:昌黎 degree:2
+edge 昌黎 to 滦州 : weight: 42
+edge 昌黎 to 秦皇岛 : weight: 48
+
+vertexname:滦州 degree:2
+edge 滦州 to 昌黎 : weight: 42
+edge 滦州 to 唐山 : weight: 28
+
+vertexname:丰南 degree:2
+edge 丰南 to 宁河 : weight: 38
+edge 丰南 to 唐山 : weight: 17
+
+vertexname:宁河 degree:2
+edge 宁河 to 丰南 : weight: 38
+edge 宁河 to 黄骅 : weight: 71
+
+vertexname:盐山 degree:2
+edge 盐山 to 庆云 : weight: 39
+edge 盐山 to 黄骅 : weight: 40
+
+vertexname:庆云 degree:2
+edge 庆云 to 无棣 : weight: 26
+edge 庆云 to 盐山 : weight: 39
+
+vertexname:无棣 degree:2
+edge 无棣 to 滨州 : weight: 69
+edge 无棣 to 庆云 : weight: 26
+
+vertexname:滨州 degree:2
+edge 滨州 to 博兴 : weight: 29
+edge 滨州 to 无棣 : weight: 69
+
+vertexname:博兴 degree:2
+edge 博兴 to 桓台 : weight: 24
+edge 博兴 to 滨州 : weight: 29
+
+vertexname:桓台 degree:2
+edge 桓台 to 博兴 : weight: 24
+edge 桓台 to 淄博 : weight: 24
+
+vertexname:淄川 degree:2
+edge 淄川 to 淄博 : weight: 19
+edge 淄川 to 博山 : weight: 21
+
+vertexname:蒙阴 degree:2
+edge 蒙阴 to 临沂 : weight: 92
+edge 蒙阴 to 新泰 : weight: 28
+
+vertexname:郯城 degree:2
+edge 郯城 to 新沂 : weight: 29
+edge 郯城 to 临沂 : weight: 56
+
+vertexname:新沂 degree:2
+edge 新沂 to 沭阳 : weight: 50
+edge 新沂 to 郯城 : weight: 29
+
+vertexname:沭阳 degree:2
+edge 沭阳 to 淮阴 : weight: 64
+edge 沭阳 to 新沂 : weight: 50
+
+vertexname:淮阴 degree:2
+edge 淮阴 to 淮安 : weight: 4
+edge 淮阴 to 沭阳 : weight: 64
+
+vertexname:淮安 degree:2
+edge 淮安 to 洪泽 : weight: 42
+edge 淮安 to 淮阴 : weight: 4
+
+vertexname:洪泽 degree:2
+edge 洪泽 to 天长 : weight: 108
+edge 洪泽 to 淮安 : weight: 42
+
+vertexname:天长 degree:2
+edge 天长 to 六合 : weight: 43
+edge 天长 to 洪泽 : weight: 108
+
+vertexname:六合 degree:2
+edge 六合 to 天长 : weight: 43
+edge 六合 to 南京 : weight: 44
+
+vertexname:当涂 degree:2
+edge 当涂 to 马鞍山 : weight: 19
+edge 当涂 to 芜湖 : weight: 32
+
+vertexname:南陵 degree:4
+edge 南陵 to 泾 : weight: 35
+edge 南陵 to 青阳 : weight: 67
+edge 南陵 to 宣城 : weight: 48
+edge 南陵 to 芜湖 : weight: 58
+
+vertexname:泾 degree:2
+edge 泾 to 黄山 : weight: 188
+edge 泾 to 南陵 : weight: 35
+
+vertexname:黄山 degree:2
+edge 黄山 to 开化 : weight: 116
+edge 黄山 to 泾 : weight: 188
+
+vertexname:开化 degree:2
+edge 开化 to 常山 : weight: 48
+edge 开化 to 黄山 : weight: 116
+
+vertexname:常山 degree:2
+edge 常山 to 江山 : weight: 32
+edge 常山 to 开化 : weight: 48
+
+vertexname:江山 degree:2
+edge 江山 to 浦城 : weight: 130
+edge 江山 to 常山 : weight: 32
+
+vertexname:浦城 degree:2
+edge 浦城 to 建阳 : weight: 120
+edge 浦城 to 江山 : weight: 130
+
+vertexname:建阳 degree:2
+edge 建阳 to 建瓯 : weight: 50
+edge 建阳 to 浦城 : weight: 120
+
+vertexname:建瓯 degree:2
+edge 建瓯 to 南平 : weight: 74
+edge 建瓯 to 建阳 : weight: 50
+
+vertexname:南平 degree:2
+edge 南平 to 沙 : weight: 56
+edge 南平 to 建瓯 : weight: 74
+
+vertexname:沙 degree:2
+edge 沙 to 三明 : weight: 25
+edge 沙 to 南平 : weight: 56
+
+vertexname:三明 degree:2
+edge 三明 to 永安 : weight: 56
+edge 三明 to 沙 : weight: 25
+
+vertexname:永安 degree:2
+edge 永安 to 上杭 : weight: 206
+edge 永安 to 三明 : weight: 56
+
+vertexname:上杭 degree:2
+edge 上杭 to 蕉岭 : weight: 77
+edge 上杭 to 永安 : weight: 206
+
+vertexname:蕉岭 degree:2
+edge 蕉岭 to 上杭 : weight: 77
+edge 蕉岭 to 梅州 : weight: 46
+
+vertexname:梅 degree:2
+edge 梅 to 兴宁 : weight: 49
+edge 梅 to 梅州 : weight: 8
+
+vertexname:兴宁 degree:2
+edge 兴宁 to 岐岭 : weight: 37
+edge 兴宁 to 梅 : weight: 49
+
+vertexname:岐岭 degree:2
+edge 岐岭 to 龙川 : weight: 26
+edge 岐岭 to 兴宁 : weight: 37
+
+vertexname:龙川 degree:2
+edge 龙川 to 东源 : weight: 89
+edge 龙川 to 岐岭 : weight: 26
+
+vertexname:东源 degree:2
+edge 东源 to 龙川 : weight: 89
+edge 东源 to 河源 : weight: 18
+
+vertexname:锡林浩特 degree:1
+edge 锡林浩特 to 太仆寺旗 : weight: 286
+
+vertexname:太仆寺旗 degree:2
+edge 太仆寺旗 to 张北 : weight: 96
+edge 太仆寺旗 to 锡林浩特 : weight: 286
+
+vertexname:张北 degree:2
+edge 张北 to 张家口 : weight: 47
+edge 张北 to 太仆寺旗 : weight: 96
+
+vertexname:张家口 degree:2
+edge 张家口 to 涞源 : weight: 236
+edge 张家口 to 张北 : weight: 47
+
+vertexname:涞源 degree:4
+edge 涞源 to 阜平 : weight: 104
+edge 涞源 to 王安 : weight: 75
+edge 涞源 to 灵丘 : weight: 167
+edge 涞源 to 张家口 : weight: 236
+
+vertexname:阜平 degree:2
+edge 阜平 to 阳泉 : weight: 208
+edge 阜平 to 涞源 : weight: 104
+
+vertexname:阳泉 degree:2
+edge 阳泉 to 昔阳 : weight: 35
+edge 阳泉 to 阜平 : weight: 208
+
+vertexname:昔阳 degree:2
+edge 昔阳 to 和顺 : weight: 50
+edge 昔阳 to 阳泉 : weight: 35
+
+vertexname:和顺 degree:2
+edge 和顺 to 左权 : weight: 39
+edge 和顺 to 昔阳 : weight: 50
+
+vertexname:左权 degree:2
+edge 左权 to 黎城 : weight: 86
+edge 左权 to 和顺 : weight: 39
+
+vertexname:黎城 degree:2
+edge 黎城 to 长治 : weight: 31
+edge 黎城 to 左权 : weight: 86
+
+vertexname:长治 degree:2
+edge 长治 to 高平 : weight: 76
+edge 长治 to 黎城 : weight: 31
+
+vertexname:高平 degree:2
+edge 高平 to 长治 : weight: 76
+edge 高平 to 晋城 : weight: 46
+
+vertexname:济源 degree:2
+edge 济源 to 洛阳 : weight: 32
+edge 济源 to 晋城 : weight: 131
+
+vertexname:登封 degree:2
+edge 登封 to 汝州 : weight: 50
+edge 登封 to 洛阳 : weight: 8
+
+vertexname:汝州 degree:2
+edge 汝州 to 南召 : weight: 141
+edge 汝州 to 登封 : weight: 50
+
+vertexname:南召 degree:2
+edge 南召 to 镇平 : weight: 66
+edge 南召 to 汝州 : weight: 141
+
+vertexname:镇平 degree:4
+edge 镇平 to 邓州 : weight: 61
+edge 镇平 to 南阳 : weight: 30
+edge 镇平 to 内乡 : weight: 38
+edge 镇平 to 南召 : weight: 66
+
+vertexname:邓州 degree:2
+edge 邓州 to 襄阳 : weight: 86
+edge 邓州 to 镇平 : weight: 61
+
+vertexname:襄阳 degree:2
+edge 襄阳 to 宜城 : weight: 42
+edge 襄阳 to 邓州 : weight: 86
+
+vertexname:宜城 degree:2
+edge 宜城 to 荆门 : weight: 79
+edge 宜城 to 襄阳 : weight: 42
+
+vertexname:荆门 degree:2
+edge 荆门 to 荆州 : weight: 79
+edge 荆门 to 宜城 : weight: 79
+
+vertexname:荆州 degree:4
+edge 荆州 to 澧 : weight: 121
+edge 荆州 to 潜江 : weight: 72
+edge 荆州 to 枝江 : weight: 47
+edge 荆州 to 荆门 : weight: 79
+
+vertexname:澧 degree:2
+edge 澧 to 荆州 : weight: 121
+edge 澧 to 常德 : weight: 81
+
+vertexname:涟源 degree:2
+edge 涟源 to 邵阳 : weight: 75
+edge 涟源 to 常德 : weight: 224
+
+vertexname:邵阳 degree:2
+edge 邵阳 to 东安 : weight: 129
+edge 邵阳 to 涟源 : weight: 75
+
+vertexname:东安 degree:2
+edge 东安 to 双牌 : weight: 86
+edge 东安 to 邵阳 : weight: 129
+
+vertexname:双牌 degree:2
+edge 双牌 to 道 : weight: 66
+edge 双牌 to 东安 : weight: 86
+
+vertexname:道 degree:2
+edge 道 to 贺州 : weight: 124
+edge 道 to 双牌 : weight: 66
+
+vertexname:贺州 degree:2
+edge 贺州 to 梧州 : weight: 190
+edge 贺州 to 道 : weight: 124
+
+vertexname:梧州 degree:2
+edge 梧州 to 岑溪 : weight: 87
+edge 梧州 to 贺州 : weight: 190
+
+vertexname:岑溪 degree:2
+edge 岑溪 to 信宜 : weight: 101
+edge 岑溪 to 梧州 : weight: 87
+
+vertexname:信宜 degree:2
+edge 信宜 to 高州 : weight: 60
+edge 信宜 to 岑溪 : weight: 101
+
+vertexname:高州 degree:2
+edge 高州 to 化州 : weight: 43
+edge 高州 to 信宜 : weight: 60
+
+vertexname:化州 degree:2
+edge 化州 to 高州 : weight: 43
+edge 化州 to 湛江 : weight: 57
+
+vertexname:雷州 degree:2
+edge 雷州 to 徐闻 : weight: 103
+edge 雷州 to 湛江 : weight: 69
+
+vertexname:徐闻 degree:2
+edge 徐闻 to 海安 : weight: 10
+edge 徐闻 to 雷州 : weight: 103
+
+vertexname:海安 degree:1
+edge 海安 to 徐闻 : weight: 10
+
+vertexname:和林格尔 degree:2
+edge 和林格尔 to 清水河 : weight: 79
+edge 和林格尔 to 呼和浩特 : weight: 57
+
+vertexname:清水河 degree:2
+edge 清水河 to 五寨 : weight: 176
+edge 清水河 to 和林格尔 : weight: 79
+
+vertexname:五寨 degree:2
+edge 五寨 to 岢岚 : weight: 39
+edge 五寨 to 清水河 : weight: 176
+
+vertexname:岢岚 degree:2
+edge 岢岚 to 岚 : weight: 68
+edge 岢岚 to 五寨 : weight: 39
+
+vertexname:岚 degree:2
+edge 岚 to 方山 : weight: 66
+edge 岚 to 岢岚 : weight: 68
+
+vertexname:方山 degree:2
+edge 方山 to 离石 : weight: 46
+edge 方山 to 岚 : weight: 66
+
+vertexname:离石 degree:2
+edge 离石 to 中阳 : weight: 27
+edge 离石 to 方山 : weight: 46
+
+vertexname:中阳 degree:2
+edge 中阳 to 交口 : weight: 47
+edge 中阳 to 离石 : weight: 27
+
+vertexname:交口 degree:2
+edge 交口 to 隰 : weight: 47
+edge 交口 to 中阳 : weight: 47
+
+vertexname:隰 degree:2
+edge 隰 to 大宁 : weight: 40
+edge 隰 to 交口 : weight: 47
+
+vertexname:大宁 degree:2
+edge 大宁 to 吉 : weight: 52
+edge 大宁 to 隰 : weight: 40
+
+vertexname:吉 degree:2
+edge 吉 to 河津 : weight: 92
+edge 吉 to 大宁 : weight: 52
+
+vertexname:河津 degree:4
+edge 河津 to 临猗 : weight: 55
+edge 河津 to 稷山 : weight: 27
+edge 河津 to 禹门口 : weight: 31
+edge 河津 to 吉 : weight: 92
+
+vertexname:临猗 degree:2
+edge 临猗 to 河津 : weight: 55
+edge 临猗 to 运城 : weight: 20
+
+vertexname:平陆 degree:2
+edge 平陆 to 三门峡 : weight: 8
+edge 平陆 to 运城 : weight: 49
+
+vertexname:三门峡 degree:4
+edge 三门峡 to 卢氏 : weight: 141
+edge 三门峡 to 渑池 : weight: 63
+edge 三门峡 to 平陆 : weight: 8
+edge 三门峡 to 灵宝 : weight: 60
+
+vertexname:卢氏 degree:2
+edge 卢氏 to 郧阳 : weight: 257
+edge 卢氏 to 三门峡 : weight: 141
+
+vertexname:郧阳 degree:2
+edge 郧阳 to 十堰 : weight: 32
+edge 郧阳 to 卢氏 : weight: 257
+
+vertexname:十堰 degree:2
+edge 十堰 to 房 : weight: 103
+edge 十堰 to 郧阳 : weight: 32
+
+vertexname:房 degree:2
+edge 房 to 巴东 : weight: 274
+edge 房 to 十堰 : weight: 103
+
+vertexname:巴东 degree:2
+edge 巴东 to 建始 : weight: 148
+edge 巴东 to 房 : weight: 274
+
+vertexname:建始 degree:2
+edge 建始 to 恩施 : weight: 55
+edge 建始 to 巴东 : weight: 148
+
+vertexname:恩施 degree:4
+edge 恩施 to 宣恩 : weight: 90
+edge 恩施 to 宜昌城 : weight: 288
+edge 恩施 to 利川 : weight: 103
+edge 恩施 to 建始 : weight: 55
+
+vertexname:宣恩 degree:2
+edge 宣恩 to 来凤 : weight: 90
+edge 宣恩 to 恩施 : weight: 90
+
+vertexname:来凤 degree:2
+edge 来凤 to 龙山 : weight: 9
+edge 来凤 to 宣恩 : weight: 90
+
+vertexname:龙山 degree:2
+edge 龙山 to 永顺 : weight: 57
+edge 龙山 to 来凤 : weight: 9
+
+vertexname:永顺 degree:2
+edge 永顺 to 保靖 : weight: 57
+edge 永顺 to 龙山 : weight: 57
+
+vertexname:保靖 degree:2
+edge 保靖 to 花垣 : weight: 26
+edge 保靖 to 永顺 : weight: 57
+
+vertexname:花垣 degree:2
+edge 花垣 to 吉首 : weight: 70
+edge 花垣 to 保靖 : weight: 26
+
+vertexname:吉首 degree:2
+edge 吉首 to 凤凰 : weight: 54
+edge 吉首 to 花垣 : weight: 70
+
+vertexname:凤凰 degree:2
+edge 凤凰 to 　麻阳 : weight: 39
+edge 凤凰 to 吉首 : weight: 54
+
+vertexname:　麻阳 degree:2
+edge 　麻阳 to 怀化 : weight: 55
+edge 　麻阳 to 凤凰 : weight: 39
+
+vertexname:怀化 degree:2
+edge 怀化 to 中方 : weight: 19
+edge 怀化 to 　麻阳 : weight: 55
+
+vertexname:中方 degree:2
+edge 中方 to 洪江 : weight: 31
+edge 中方 to 怀化 : weight: 19
+
+vertexname:洪江 degree:2
+edge 洪江 to 会同 : weight: 52
+edge 洪江 to 中方 : weight: 31
+
+vertexname:会同 degree:2
+edge 会同 to 靖州 : weight: 40
+edge 会同 to 洪江 : weight: 52
+
+vertexname:靖州 degree:2
+edge 靖州 to 通道 : weight: 81
+edge 靖州 to 会同 : weight: 40
+
+vertexname:通道 degree:2
+edge 通道 to 融安 : weight: 161
+edge 通道 to 靖州 : weight: 81
+
+vertexname:融安 degree:2
+edge 融安 to 通道 : weight: 161
+edge 融安 to 柳州 : weight: 119
+
+vertexname:武宣 degree:2
+edge 武宣 to 灵山 : weight: 163
+edge 武宣 to 柳州 : weight: 95
+
+vertexname:灵山 degree:2
+edge 灵山 to 合浦 : weight: 121
+edge 灵山 to 武宣 : weight: 163
+
+vertexname:合浦 degree:2
+edge 合浦 to 灵山 : weight: 121
+edge 合浦 to 北海 : weight: 28
+
+vertexname:达拉特旗 degree:2
+edge 达拉特旗 to 东胜 : weight: 92
+edge 达拉特旗 to 包头 : weight: 44
+
+vertexname:东胜 degree:2
+edge 东胜 to 伊金霍洛旗 : weight: 40
+edge 东胜 to 达拉特旗 : weight: 92
+
+vertexname:伊金霍洛旗 degree:2
+edge 伊金霍洛旗 to 榆林 : weight: 171
+edge 伊金霍洛旗 to 东胜 : weight: 40
+
+vertexname:榆林 degree:2
+edge 榆林 to 米脂 : weight: 82
+edge 榆林 to 伊金霍洛旗 : weight: 171
+
+vertexname:米脂 degree:2
+edge 米脂 to 绥德 : weight: 31
+edge 米脂 to 榆林 : weight: 82
+
+vertexname:绥德 degree:2
+edge 绥德 to 清涧 : weight: 63
+edge 绥德 to 米脂 : weight: 31
+
+vertexname:清涧 degree:2
+edge 清涧 to 延川 : weight: 47
+edge 清涧 to 绥德 : weight: 63
+
+vertexname:延川 degree:2
+edge 延川 to 延安 : weight: 93
+edge 延川 to 清涧 : weight: 47
+
+vertexname:延安 degree:2
+edge 延安 to 甘泉 : weight: 40
+edge 延安 to 延川 : weight: 93
+
+vertexname:甘泉 degree:2
+edge 甘泉 to 洛川 : weight: 84
+edge 甘泉 to 延安 : weight: 40
+
+vertexname:洛川 degree:2
+edge 洛川 to 黄陵 : weight: 42
+edge 洛川 to 甘泉 : weight: 84
+
+vertexname:黄陵 degree:2
+edge 黄陵 to 宜君 : weight: 32
+edge 黄陵 to 洛川 : weight: 42
+
+vertexname:宜君 degree:2
+edge 宜君 to 铜川 : weight: 49
+edge 宜君 to 黄陵 : weight: 32
+
+vertexname:铜川 degree:2
+edge 铜川 to 耀 : weight: 20
+edge 铜川 to 宜君 : weight: 49
+
+vertexname:耀 degree:2
+edge 耀 to 三原 : weight: 49
+edge 耀 to 铜川 : weight: 20
+
+vertexname:三原 degree:2
+edge 三原 to 耀 : weight: 49
+edge 三原 to 西安 : weight: 38
+
+vertexname:宁陕 degree:2
+edge 宁陕 to 石泉 : weight: 77
+edge 宁陕 to 西安 : weight: 184
+
+vertexname:石泉 degree:2
+edge 石泉 to 西乡 : weight: 69
+edge 石泉 to 宁陕 : weight: 77
+
+vertexname:西乡 degree:2
+edge 西乡 to 镇巴 : weight: 77
+edge 西乡 to 石泉 : weight: 69
+
+vertexname:镇巴 degree:2
+edge 镇巴 to 万源 : weight: 89
+edge 镇巴 to 西乡 : weight: 77
+
+vertexname:万源 degree:2
+edge 万源 to 镇巴 : weight: 89
+edge 万源 to 达州 : weight: 151
+
+vertexname:大竹 degree:4
+edge 大竹 to 梁平 : weight: 98
+edge 大竹 to 蓬安 : weight: 102
+edge 大竹 to 邻水 : weight: 65
+edge 大竹 to 达州 : weight: 75
+
+vertexname:渝北 degree:2
+edge 渝北 to 邻水 : weight: 93
+edge 渝北 to 重庆 : weight: 26
+
+vertexname:巴南 degree:2
+edge 巴南 to 綦江 : weight: 60
+edge 巴南 to 重庆 : weight: 31
+
+vertexname:綦江 degree:2
+edge 綦江 to 桐梓 : weight: 177
+edge 綦江 to 巴南 : weight: 60
+
+vertexname:桐梓 degree:2
+edge 桐梓 to 綦江 : weight: 177
+edge 桐梓 to 遵义 : weight: 62
+
+vertexname:息烽 degree:2
+edge 息烽 to 遵义 : weight: 91
+edge 息烽 to 贵阳 : weight: 74
+
+vertexname:龙里 degree:2
+edge 龙里 to 贵定 : weight: 23
+edge 龙里 to 贵阳 : weight: 37
+
+vertexname:贵定 degree:2
+edge 贵定 to 龙里 : weight: 23
+edge 贵定 to 都匀 : weight: 96
+
+vertexname:独山 degree:2
+edge 独山 to 南丹 : weight: 124
+edge 独山 to 都匀 : weight: 67
+
+vertexname:南丹 degree:2
+edge 南丹 to 独山 : weight: 124
+edge 南丹 to 都安 : weight: 173
+
+vertexname:马山 degree:2
+edge 马山 to 武鸣 : weight: 89
+edge 马山 to 都安 : weight: 29
+
+vertexname:武鸣 degree:2
+edge 武鸣 to 马山 : weight: 89
+edge 武鸣 to 南宁 : weight: 41
+
+vertexname:黄浦 degree:1
+edge 黄浦 to 青浦 : weight: 38
+
+vertexname:青浦 degree:2
+edge 青浦 to 吴江 : weight: 13
+edge 青浦 to 黄浦 : weight: 38
+
+vertexname:吴江 degree:2
+edge 吴江 to 南浔? : weight: 57
+edge 吴江 to 青浦 : weight: 13
+
+vertexname:南浔? degree:2
+edge 南浔? to 吴兴 : weight: 50
+edge 南浔? to 吴江 : weight: 57
+
+vertexname:吴兴 degree:2
+edge 吴兴 to 长兴 : weight: 27
+edge 吴兴 to 南浔? : weight: 50
+
+vertexname:长兴 degree:2
+edge 长兴 to 吴兴 : weight: 27
+edge 长兴 to 广德 : weight: 55
+
+vertexname:青阳 degree:2
+edge 青阳 to 贵池 : weight: 43
+edge 青阳 to 南陵 : weight: 67
+
+vertexname:贵池 degree:2
+edge 贵池 to 青阳 : weight: 43
+edge 贵池 to 安庆 : weight: 68
+
+vertexname:潜山 degree:3
+edge 潜山 to 岳西 : weight: 80
+edge 潜山 to 太湖 : weight: 42
+edge 潜山 to 安庆 : weight: 37
+
+vertexname:岳西 degree:3
+edge 岳西 to 英山 : weight: 110
+edge 岳西 to 霍山 : weight: 104
+edge 岳西 to 潜山 : weight: 80
+
+vertexname:英山 degree:2
+edge 英山 to 罗田 : weight: 40
+edge 英山 to 岳西 : weight: 110
+
+vertexname:罗田 degree:2
+edge 罗田 to 新洲 : weight: 73
+edge 罗田 to 英山 : weight: 40
+
+vertexname:新洲 degree:2
+edge 新洲 to 罗田 : weight: 73
+edge 新洲 to 黄陂 : weight: 52
+
+vertexname:仙桃 degree:2
+edge 仙桃 to 潜江 : weight: 56
+edge 仙桃 to 武汉 : weight: 111
+
+vertexname:潜江 degree:2
+edge 潜江 to 仙桃 : weight: 56
+edge 潜江 to 荆州 : weight: 72
+
+vertexname:枝江 degree:2
+edge 枝江 to 猇亭 : weight: 41
+edge 枝江 to 荆州 : weight: 47
+
+vertexname:猇亭 degree:2
+edge 猇亭 to 宜昌城 : weight: 24
+edge 猇亭 to 枝江 : weight: 41
+
+vertexname:宜昌城 degree:2
+edge 宜昌城 to 猇亭 : weight: 24
+edge 宜昌城 to 恩施 : weight: 288
+
+vertexname:利川 degree:2
+edge 利川 to 万州 : weight: 150
+edge 利川 to 恩施 : weight: 103
+
+vertexname:万州 degree:2
+edge 万州 to 梁平 : weight: 82
+edge 万州 to 利川 : weight: 150
+
+vertexname:梁平 degree:2
+edge 梁平 to 万州 : weight: 82
+edge 梁平 to 大竹 : weight: 98
+
+vertexname:蓬安 degree:2
+edge 蓬安 to 大竹 : weight: 102
+edge 蓬安 to 南充 : weight: 45
+
+vertexname:蓬溪 degree:2
+edge 蓬溪 to 遂宁 : weight: 51
+edge 蓬溪 to 南充 : weight: 53
+
+vertexname:遂宁 degree:2
+edge 遂宁 to 乐至 : weight: 90
+edge 遂宁 to 蓬溪 : weight: 51
+
+vertexname:乐至 degree:2
+edge 乐至 to 简阳 : weight: 61
+edge 乐至 to 遂宁 : weight: 90
+
+vertexname:简阳 degree:2
+edge 简阳 to 乐至 : weight: 61
+edge 简阳 to 成都 : weight: 73
+
+vertexname:双流 degree:2
+edge 双流 to 新津 : weight: 22
+edge 双流 to 成都 : weight: 14
+
+vertexname:新津 degree:2
+edge 新津 to 双流 : weight: 22
+edge 新津 to 邛崃 : weight: 7
+
+vertexname:名山 degree:2
+edge 名山 to 邛崃 : weight: 95
+edge 名山 to 雅安 : weight: 10
+
+vertexname:天全 degree:2
+edge 天全 to 泸定 : weight: 126
+edge 天全 to 雅安 : weight: 37
+
+vertexname:泸定 degree:2
+edge 泸定 to 康定 : weight: 51
+edge 泸定 to 天全 : weight: 126
+
+vertexname:康定 degree:2
+edge 康定 to 雅江 : weight: 149
+edge 康定 to 泸定 : weight: 51
+
+vertexname:雅江 degree:2
+edge 雅江 to 理塘 : weight: 137
+edge 雅江 to 康定 : weight: 149
+
+vertexname:理塘 degree:2
+edge 理塘 to 巴塘 : weight: 171
+edge 理塘 to 雅江 : weight: 137
+
+vertexname:巴塘 degree:2
+edge 巴塘 to 芒康 : weight: 105
+edge 巴塘 to 理塘 : weight: 171
+
+vertexname:芒康 degree:2
+edge 芒康 to 左贡 : weight: 158
+edge 芒康 to 巴塘 : weight: 105
+
+vertexname:左贡 degree:2
+edge 左贡 to 八宿 : weight: 201
+edge 左贡 to 芒康 : weight: 158
+
+vertexname:八宿 degree:2
+edge 八宿 to 波密 : weight: 220
+edge 八宿 to 左贡 : weight: 201
+
+vertexname:波密 degree:2
+edge 波密 to 林芝 : weight: 211
+edge 波密 to 八宿 : weight: 220
+
+vertexname:林芝 degree:2
+edge 林芝 to 工布江达 : weight: 146
+edge 林芝 to 波密 : weight: 211
+
+vertexname:工布江达 degree:2
+edge 工布江达 to 墨竹工卡 : weight: 206
+edge 工布江达 to 林芝 : weight: 146
+
+vertexname:墨竹工卡 degree:2
+edge 墨竹工卡 to 达孜 : weight: 47
+edge 墨竹工卡 to 工布江达 : weight: 206
+
+vertexname:达孜 degree:2
+edge 达孜 to 拉萨 : weight: 31
+edge 达孜 to 墨竹工卡 : weight: 47
+
+vertexname:拉萨 degree:2
+edge 拉萨 to 堆龙德庆 : weight: 12
+edge 拉萨 to 达孜 : weight: 31
+
+vertexname:堆龙德庆 degree:2
+edge 堆龙德庆 to 曲水 : weight: 49
+edge 堆龙德庆 to 拉萨 : weight: 12
+
+vertexname:曲水 degree:2
+edge 曲水 to 尼木 : weight: 76
+edge 曲水 to 堆龙德庆 : weight: 49
+
+vertexname:尼木 degree:2
+edge 尼木 to 仁布 : weight: 47
+edge 尼木 to 曲水 : weight: 76
+
+vertexname:仁布 degree:2
+edge 仁布 to 日喀则 : weight: 112
+edge 仁布 to 尼木 : weight: 47
+
+vertexname:日喀则 degree:2
+edge 日喀则 to 拉孜 : weight: 157
+edge 日喀则 to 仁布 : weight: 112
+
+vertexname:拉孜 degree:2
+edge 拉孜 to 定日 : weight: 91
+edge 拉孜 to 日喀则 : weight: 157
+
+vertexname:定日 degree:1
+edge 定日 to 拉孜 : weight: 91
+
+vertexname:大灰厂 degree:2
+edge 大灰厂 to 野三坡 : weight: 77
+edge 大灰厂 to 北京 : weight: 28
+
+vertexname:野三坡 degree:2
+edge 野三坡 to 白涧 : weight: 22
+edge 野三坡 to 大灰厂 : weight: 77
+
+vertexname:白涧 degree:2
+edge 白涧 to 王安 : weight: 51
+edge 白涧 to 野三坡 : weight: 22
+
+vertexname:王安 degree:2
+edge 王安 to 白涧 : weight: 51
+edge 王安 to 涞源 : weight: 75
+
+vertexname:灵丘 degree:2
+edge 灵丘 to 代 : weight: 31
+edge 灵丘 to 涞源 : weight: 167
+
+vertexname:代 degree:2
+edge 代 to 灵丘 : weight: 31
+edge 代 to 原平 : weight: 45
+
+vertexname:忻州 degree:2
+edge 忻州 to 阳曲 : weight: 43
+edge 忻州 to 原平 : weight: 33
+
+vertexname:阳曲 degree:2
+edge 阳曲 to 忻州 : weight: 43
+edge 阳曲 to 太原 : weight: 21
+
+vertexname:晋中 degree:2
+edge 晋中 to 太谷 : weight: 36
+edge 晋中 to 太原 : weight: 27
+
+vertexname:太谷 degree:2
+edge 太谷 to 祁 : weight: 22
+edge 太谷 to 晋中 : weight: 36
+
+vertexname:祁 degree:2
+edge 祁 to 平遥 : weight: 17
+edge 祁 to 太谷 : weight: 22
+
+vertexname:平遥 degree:2
+edge 平遥 to 介休 : weight: 25
+edge 平遥 to 祁 : weight: 17
+
+vertexname:介休 degree:2
+edge 介休 to 灵石 : weight: 27
+edge 介休 to 平遥 : weight: 25
+
+vertexname:灵石 degree:2
+edge 灵石 to 霍州 : weight: 38
+edge 灵石 to 介休 : weight: 27
+
+vertexname:霍州 degree:2
+edge 霍州 to 临汾 : weight: 63
+edge 霍州 to 灵石 : weight: 38
+
+vertexname:临汾 degree:2
+edge 临汾 to 襄汾 : weight: 25
+edge 临汾 to 霍州 : weight: 63
+
+vertexname:襄汾 degree:2
+edge 襄汾 to 曲沃 : weight: 29
+edge 襄汾 to 临汾 : weight: 25
+
+vertexname:曲沃 degree:2
+edge 曲沃 to 侯马 : weight: 15
+edge 曲沃 to 襄汾 : weight: 29
+
+vertexname:侯马 degree:2
+edge 侯马 to 新绛 : weight: 15
+edge 侯马 to 曲沃 : weight: 15
+
+vertexname:新绛 degree:2
+edge 新绛 to 稷山 : weight: 21
+edge 新绛 to 侯马 : weight: 15
+
+vertexname:稷山 degree:2
+edge 稷山 to 新绛 : weight: 21
+edge 稷山 to 河津 : weight: 27
+
+vertexname:禹门口 degree:2
+edge 禹门口 to 韩城 : weight: 14
+edge 禹门口 to 河津 : weight: 31
+
+vertexname:韩城 degree:2
+edge 韩城 to 禹门口 : weight: 14
+edge 韩城 to 渭南 : weight: 115
+
+vertexname:周至 degree:3
+edge 周至 to 佛坪 : weight: 78
+edge 周至 to 眉 : weight: 48
+edge 周至 to 西安 : weight: 68
+
+vertexname:佛坪 degree:2
+edge 佛坪 to 城固 : weight: 82
+edge 佛坪 to 周至 : weight: 78
+
+vertexname:城固 degree:2
+edge 城固 to 汉中 : weight: 31
+edge 城固 to 佛坪 : weight: 82
+
+vertexname:汉中 degree:2
+edge 汉中 to 勉 : weight: 44
+edge 汉中 to 城固 : weight: 31
+
+vertexname:勉 degree:2
+edge 勉 to 汉中 : weight: 44
+edge 勉 to 广元 : weight: 130
+
+vertexname:剑阁 degree:2
+edge 剑阁 to 梓潼 : weight: 165
+edge 剑阁 to 广元 : weight: 58
+
+vertexname:梓潼 degree:2
+edge 梓潼 to 剑阁 : weight: 165
+edge 梓潼 to 绵阳 : weight: 43
+
+vertexname:罗江 degree:2
+edge 罗江 to 德阳 : weight: 27
+edge 罗江 to 绵阳 : weight: 37
+
+vertexname:德阳 degree:2
+edge 德阳 to 广汉 : weight: 19
+edge 德阳 to 罗江 : weight: 27
+
+vertexname:广汉 degree:2
+edge 广汉 to 新都 : weight: 22
+edge 广汉 to 德阳 : weight: 19
+
+vertexname:新都 degree:2
+edge 新都 to 广汉 : weight: 22
+edge 新都 to 成都 : weight: 19
+
+vertexname:荥经 degree:2
+edge 荥经 to 汉源 : weight: 114
+edge 荥经 to 雅安 : weight: 45
+
+vertexname:汉源 degree:2
+edge 汉源 to 石棉 : weight: 52
+edge 汉源 to 荥经 : weight: 114
+
+vertexname:石棉 degree:2
+edge 石棉 to 冕宁 : weight: 108
+edge 石棉 to 汉源 : weight: 52
+
+vertexname:冕宁 degree:2
+edge 冕宁 to 石棉 : weight: 108
+edge 冕宁 to 西昌 : weight: 61
+
+vertexname:会理 degree:2
+edge 会理 to 攀枝花 : weight: 137
+edge 会理 to 西昌 : weight: 205
+
+vertexname:攀枝花 degree:2
+edge 攀枝花 to 元谋 : weight: 83
+edge 攀枝花 to 会理 : weight: 137
+
+vertexname:元谋 degree:2
+edge 元谋 to 武定 : weight: 101
+edge 元谋 to 攀枝花 : weight: 83
+
+vertexname:武定 degree:2
+edge 武定 to 禄劝 : weight: 10
+edge 武定 to 元谋 : weight: 101
+
+vertexname:禄劝 degree:2
+edge 禄劝 to 富民 : weight: 53
+edge 禄劝 to 武定 : weight: 10
+
+vertexname:富民 degree:2
+edge 富民 to 禄劝 : weight: 53
+edge 富民 to 昆明 : weight: 63
+
+vertexname:西青 degree:2
+edge 西青 to 静海 : weight: 31
+edge 西青 to 廊坊 : weight: 62
+
+vertexname:静海 degree:2
+edge 静海 to 青 : weight: 53
+edge 静海 to 西青 : weight: 31
+
+vertexname:青 degree:2
+edge 青 to 沧州 : weight: 36
+edge 青 to 静海 : weight: 53
+
+vertexname:沧州 degree:2
+edge 沧州 to 泊头 : weight: 40
+edge 沧州 to 青 : weight: 36
+
+vertexname:泊头 degree:2
+edge 泊头 to 东光 : weight: 22
+edge 泊头 to 沧州 : weight: 40
+
+vertexname:东光 degree:2
+edge 东光 to 吴桥 : weight: 31
+edge 东光 to 泊头 : weight: 22
+
+vertexname:吴桥 degree:2
+edge 吴桥 to 德州 : weight: 24
+edge 吴桥 to 东光 : weight: 31
+
+vertexname:德州 degree:2
+edge 德州 to 高唐 : weight: 67
+edge 德州 to 吴桥 : weight: 24
+
+vertexname:高唐 degree:2
+edge 高唐 to 茌平 : weight: 33
+edge 高唐 to 德州 : weight: 67
+
+vertexname:茌平 degree:2
+edge 茌平 to 东阿 : weight: 28
+edge 茌平 to 高唐 : weight: 33
+
+vertexname:东阿 degree:2
+edge 东阿 to 平阴 : weight: 26
+edge 东阿 to 茌平 : weight: 28
+
+vertexname:平阴 degree:2
+edge 平阴 to 济宁 : weight: 108
+edge 平阴 to 东阿 : weight: 26
+
+vertexname:济宁 degree:2
+edge 济宁 to 金乡 : weight: 47
+edge 济宁 to 平阴 : weight: 108
+
+vertexname:金乡 degree:2
+edge 金乡 to 单 : weight: 38
+edge 金乡 to 济宁 : weight: 47
+
+vertexname:单 degree:2
+edge 单 to 商丘 : weight: 58
+edge 单 to 金乡 : weight: 38
+
+vertexname:商丘 degree:4
+edge 商丘 to 亳州 : weight: 68
+edge 商丘 to 砀山 : weight: 65
+edge 商丘 to 民权 : weight: 54
+edge 商丘 to 单 : weight: 58
+
+vertexname:亳州 degree:2
+edge 亳州 to 太和 : weight: 85
+edge 亳州 to 商丘 : weight: 68
+
+vertexname:太和 degree:2
+edge 太和 to 阜阳 : weight: 38
+edge 太和 to 亳州 : weight: 85
+
+vertexname:阜阳 degree:2
+edge 阜阳 to 六安 : weight: 192
+edge 阜阳 to 太和 : weight: 38
+
+vertexname:六安 degree:4
+edge 六安 to 霍山 : weight: 46
+edge 六安 to 固始 : weight: 119
+edge 六安 to 阜阳 : weight: 192
+edge 六安 to 合肥 : weight: 79
+
+vertexname:霍山 degree:2
+edge 霍山 to 六安 : weight: 46
+edge 霍山 to 岳西 : weight: 104
+
+vertexname:太湖 degree:2
+edge 太湖 to 宿松 : weight: 39
+edge 太湖 to 潜山 : weight: 42
+
+vertexname:宿松 degree:2
+edge 宿松 to 太湖 : weight: 39
+edge 宿松 to 黄梅 : weight: 23
+
+vertexname:庐山 degree:2
+edge 庐山 to 德安 : weight: 41
+edge 庐山 to 九江 : weight: 35
+
+vertexname:德安 degree:2
+edge 德安 to 庐山 : weight: 41
+edge 德安 to 南昌 : weight: 102
+
+vertexname:丰城 degree:2
+edge 丰城 to 樟树 : weight: 26
+edge 丰城 to 南昌 : weight: 64
+
+vertexname:新干 degree:2
+edge 新干 to 峡江 : weight: 20
+edge 新干 to 樟树 : weight: 40
+
+vertexname:峡江 degree:2
+edge 峡江 to 吉水 : weight: 49
+edge 峡江 to 新干 : weight: 20
+
+vertexname:吉水 degree:2
+edge 吉水 to 吉安 : weight: 23
+edge 吉水 to 峡江 : weight: 49
+
+vertexname:吉安 degree:2
+edge 吉安 to 泰和 : weight: 46
+edge 吉安 to 吉水 : weight: 23
+
+vertexname:泰和 degree:2
+edge 泰和 to 遂川 : weight: 76
+edge 泰和 to 吉安 : weight: 46
+
+vertexname:遂川 degree:2
+edge 遂川 to 万安 : weight: 24
+edge 遂川 to 泰和 : weight: 76
+
+vertexname:万安 degree:2
+edge 万安 to 赣州 : weight: 67
+edge 万安 to 遂川 : weight: 24
+
+vertexname:赣州 degree:2
+edge 赣州 to 信丰 : weight: 74
+edge 赣州 to 万安 : weight: 67
+
+vertexname:信丰 degree:2
+edge 信丰 to 龙南 : weight: 55
+edge 信丰 to 赣州 : weight: 74
+
+vertexname:龙南 degree:2
+edge 龙南 to 连平 : weight: 100
+edge 龙南 to 信丰 : weight: 55
+
+vertexname:连平 degree:2
+edge 连平 to 新丰 : weight: 55
+edge 连平 to 龙南 : weight: 100
+
+vertexname:新丰 degree:2
+edge 新丰 to 从化 : weight: 105
+edge 新丰 to 连平 : weight: 55
+
+vertexname:从化 degree:2
+edge 从化 to 顺德 : weight: 120
+edge 从化 to 新丰 : weight: 105
+
+vertexname:顺德 degree:2
+edge 顺德 to 从化 : weight: 120
+edge 顺德 to 中山 : weight: 66
+
+vertexname:连云港 degree:1
+edge 连云港 to 徐州 : weight: 262
+
+vertexname:砀山 degree:2
+edge 砀山 to 商丘 : weight: 65
+edge 砀山 to 徐州 : weight: 84
+
+vertexname:民权 degree:2
+edge 民权 to 兰考 : weight: 39
+edge 民权 to 商丘 : weight: 54
+
+vertexname:兰考 degree:2
+edge 兰考 to 民权 : weight: 39
+edge 兰考 to 开封 : weight: 48
+
+vertexname:巩义 degree:2
+edge 巩义 to 郑州 : weight: 79
+edge 巩义 to 洛阳 : weight: 76
+
+vertexname:渑池 degree:2
+edge 渑池 to 三门峡 : weight: 63
+edge 渑池 to 洛阳 : weight: 89
+
+vertexname:眉 degree:2
+edge 眉 to 周至 : weight: 48
+edge 眉 to 宝鸡 : weight: 67
+
+vertexname:昆山 degree:2
+edge 昆山 to 上海 : weight: 84
+edge 昆山 to 苏州 : weight: 40
+
+vertexname:丹阳 degree:2
+edge 丹阳 to 镇江 : weight: 26
+edge 丹阳 to 常州 : weight: 49
+
+vertexname:镇江 degree:2
+edge 镇江 to 丹阳 : weight: 26
+edge 镇江 to 南京 : weight: 75
+
+vertexname:全椒 degree:2
+edge 全椒 to 肥东 : weight: 101
+edge 全椒 to 南京 : weight: 73
+
+vertexname:肥东 degree:2
+edge 肥东 to 全椒 : weight: 101
+edge 肥东 to 合肥 : weight: 16
+
+vertexname:固始 degree:2
+edge 固始 to 潢川 : weight: 63
+edge 固始 to 六安 : weight: 119
+
+vertexname:潢川 degree:2
+edge 潢川 to 罗山 : weight: 56
+edge 潢川 to 固始 : weight: 63
+
+vertexname:罗山 degree:2
+edge 罗山 to 信阳 : weight: 22
+edge 罗山 to 潢川 : weight: 56
+
+vertexname:信阳 degree:2
+edge 信阳 to 桐柏 : weight: 78
+edge 信阳 to 罗山 : weight: 22
+
+vertexname:桐柏 degree:2
+edge 桐柏 to 唐河 : weight: 70
+edge 桐柏 to 信阳 : weight: 78
+
+vertexname:唐河 degree:2
+edge 唐河 to 南阳 : weight: 52
+edge 唐河 to 桐柏 : weight: 70
+
+vertexname:南阳 degree:2
+edge 南阳 to 唐河 : weight: 52
+edge 南阳 to 镇平 : weight: 30
+
+vertexname:内乡 degree:2
+edge 内乡 to 西峡 : weight: 50
+edge 内乡 to 镇平 : weight: 38
+
+vertexname:西峡 degree:2
+edge 西峡 to 商南 : weight: 73
+edge 西峡 to 内乡 : weight: 50
+
+vertexname:商南 degree:2
+edge 商南 to 丹凤 : weight: 66
+edge 商南 to 西峡 : weight: 73
+
+vertexname:丹凤 degree:2
+edge 丹凤 to 商洛 : weight: 53
+edge 丹凤 to 商南 : weight: 66
+
+vertexname:商洛 degree:2
+edge 商洛 to 蓝田 : weight: 88
+edge 商洛 to 丹凤 : weight: 53
+
+vertexname:蓝田 degree:2
+edge 蓝田 to 商洛 : weight: 88
+edge 蓝田 to 西安 : weight: 65
+
+vertexname:咸阳 degree:2
+edge 咸阳 to 礼泉 : weight: 32
+edge 咸阳 to 西安 : weight: 20
+
+vertexname:礼泉 degree:2
+edge 礼泉 to 永寿 : weight: 24
+edge 礼泉 to 咸阳 : weight: 32
+
+vertexname:永寿 degree:2
+edge 永寿 to 彬 : weight: 55
+edge 永寿 to 礼泉 : weight: 24
+
+vertexname:彬 degree:2
+edge 彬 to 长武 : weight: 40
+edge 彬 to 永寿 : weight: 55
+
+vertexname:长武 degree:2
+edge 长武 to 泾川 : weight: 48
+edge 长武 to 彬 : weight: 40
+
+vertexname:泾川 degree:2
+edge 泾川 to 平凉 : weight: 70
+edge 泾川 to 长武 : weight: 48
+
+vertexname:平凉 degree:2
+edge 平凉 to 隆德 : weight: 62
+edge 平凉 to 泾川 : weight: 70
+
+vertexname:隆德 degree:2
+edge 隆德 to 静宁 : weight: 41
+edge 隆德 to 平凉 : weight: 62
+
+vertexname:静宁 degree:2
+edge 静宁 to 会宁 : weight: 106
+edge 静宁 to 隆德 : weight: 41
+
+vertexname:会宁 degree:2
+edge 会宁 to 定西 : weight: 79
+edge 会宁 to 静宁 : weight: 106
+
+vertexname:定西 degree:2
+edge 定西 to 榆中 : weight: 78
+edge 定西 to 会宁 : weight: 79
+
+vertexname:榆中 degree:2
+edge 榆中 to 定西 : weight: 78
+edge 榆中 to 兰州 : weight: 46
+
+vertexname:永登 degree:2
+edge 永登 to 天祝自治 : weight: 32
+edge 永登 to 兰州 : weight: 99
+
+vertexname:天祝自治 degree:2
+edge 天祝自治 to 古浪 : weight: 73
+edge 天祝自治 to 永登 : weight: 32
+
+vertexname:古浪 degree:2
+edge 古浪 to 武威 : weight: 59
+edge 古浪 to 天祝自治 : weight: 73
+
+vertexname:武威 degree:2
+edge 武威 to 永昌 : weight: 70
+edge 武威 to 古浪 : weight: 59
+
+vertexname:永昌 degree:2
+edge 永昌 to 山丹 : weight: 106
+edge 永昌 to 武威 : weight: 70
+
+vertexname:山丹 degree:2
+edge 山丹 to 张掖 : weight: 66
+edge 山丹 to 永昌 : weight: 106
+
+vertexname:张掖 degree:2
+edge 张掖 to 临泽 : weight: 40
+edge 张掖 to 山丹 : weight: 66
+
+vertexname:临泽 degree:2
+edge 临泽 to 张掖 : weight: 40
+edge 临泽 to 酒泉 : weight: 181
+
+vertexname:玉门 degree:2
+edge 玉门 to 瓜州 : weight: 58
+edge 玉门 to 嘉峪关 : weight: 13
+
+vertexname:瓜州 degree:2
+edge 瓜州 to 柳园镇 : weight: 260
+edge 瓜州 to 玉门 : weight: 58
+
+vertexname:柳园镇 degree:2
+edge 柳园镇 to 哈密 : weight: 309
+edge 柳园镇 to 瓜州 : weight: 260
+
+vertexname:哈密 degree:2
+edge 哈密 to 鄯善 : weight: 316
+edge 哈密 to 柳园镇 : weight: 309
+
+vertexname:鄯善 degree:2
+edge 鄯善 to 哈密 : weight: 316
+edge 鄯善 to 吐鲁番 : weight: 94
+
+vertexname:昌吉 degree:2
+edge 昌吉 to 呼图壁 : weight: 33
+edge 昌吉 to 乌鲁木齐 : weight: 38
+
+vertexname:呼图壁 degree:2
+edge 呼图壁 to 玛纳斯 : weight: 60
+edge 呼图壁 to 昌吉 : weight: 33
+
+vertexname:玛纳斯 degree:2
+edge 玛纳斯 to 石河子 : weight: 16
+edge 玛纳斯 to 呼图壁 : weight: 60
+
+vertexname:石河子 degree:2
+edge 石河子 to 沙湾 : weight: 34
+edge 石河子 to 玛纳斯 : weight: 16
+
+vertexname:沙湾 degree:2
+edge 沙湾 to 乌苏 : weight: 70
+edge 沙湾 to 石河子 : weight: 34
+
+vertexname:乌苏 degree:2
+edge 乌苏 to 精河 : weight: 159
+edge 乌苏 to 沙湾 : weight: 70
+
+vertexname:精河 degree:2
+edge 精河 to 霍城 : weight: 243
+edge 精河 to 乌苏 : weight: 159
+
+vertexname:霍城 degree:2
+edge 霍城 to 霍尔果斯 : weight: 43
+edge 霍城 to 精河 : weight: 243
+
+vertexname:霍尔果斯 degree:1
+edge 霍尔果斯 to 霍城 : weight: 43
+
+vertexname:三河 degree:2
+edge 三河 to 蓟州 : weight: 23
+edge 三河 to 北京 : weight: 64
+
+vertexname:蓟州 degree:2
+edge 蓟州 to 玉田 : weight: 37
+edge 蓟州 to 三河 : weight: 23
+
+vertexname:玉田 degree:2
+edge 玉田 to 丰润 : weight: 33
+edge 玉田 to 蓟州 : weight: 37
+
+vertexname:丰润 degree:2
+edge 丰润 to 卢龙 : weight: 67
+edge 丰润 to 玉田 : weight: 33
+
+vertexname:卢龙 degree:2
+edge 卢龙 to 抚宁 : weight: 33
+edge 卢龙 to 丰润 : weight: 67
+
+vertexname:抚宁 degree:2
+edge 抚宁 to 卢龙 : weight: 33
+edge 抚宁 to 山海关 : weight: 49
+
+vertexname:绥中 degree:2
+edge 绥中 to 兴城 : weight: 47
+edge 绥中 to 山海关 : weight: 65
+
+vertexname:兴城 degree:2
+edge 兴城 to 连山 : weight: 24
+edge 兴城 to 绥中 : weight: 47
+
+vertexname:连山 degree:2
+edge 连山 to 兴城 : weight: 24
+edge 连山 to 锦州 : weight: 60
+
+vertexname:凌海 degree:2
+edge 凌海 to 北镇 : weight: 78
+edge 凌海 to 锦州 : weight: 24
+
+vertexname:北镇 degree:2
+edge 北镇 to 黑山 : weight: 31
+edge 北镇 to 凌海 : weight: 78
+
+vertexname:黑山 degree:2
+edge 黑山 to 新民 : weight: 74
+edge 黑山 to 北镇 : weight: 31
+
+vertexname:新民 degree:2
+edge 新民 to 黑山 : weight: 74
+edge 新民 to 沈阳 : weight: 68
+
+vertexname:开原 degree:2
+edge 开原 to 昌图 : weight: 33
+edge 开原 to 铁岭 : weight: 32
+
+vertexname:昌图 degree:2
+edge 昌图 to 开原 : weight: 33
+edge 昌图 to 四平 : weight: 67
+
+vertexname:公主岭 degree:2
+edge 公主岭 to 长春 : weight: 59
+edge 公主岭 to 四平 : weight: 47
+
+vertexname:德惠 degree:2
+edge 德惠 to 双城 : weight: 148
+edge 德惠 to 长春 : weight: 58
+
+vertexname:双城 degree:2
+edge 双城 to 香坊 : weight: 17
+edge 双城 to 德惠 : weight: 148
+
+vertexname:香坊 degree:1
+edge 香坊 to 双城 : weight: 17
+
+vertexname:临洮 degree:2
+edge 临洮 to 宕昌 : weight: 167
+edge 临洮 to 兰州 : weight: 104
+
+vertexname:宕昌 degree:2
+edge 宕昌 to 武都 : weight: 109
+edge 宕昌 to 临洮 : weight: 167
+
+vertexname:武都 degree:2
+edge 武都 to 宕昌 : weight: 109
+edge 武都 to 广元 : weight: 208
+
+vertexname:元坝 degree:2
+edge 元坝 to 苍溪 : weight: 104
+edge 元坝 to 广元 : weight: 24
+
+vertexname:苍溪 degree:2
+edge 苍溪 to 阆中 : weight: 26
+edge 苍溪 to 元坝 : weight: 104
+
+vertexname:阆中 degree:2
+edge 阆中 to 南部 : weight: 35
+edge 阆中 to 苍溪 : weight: 26
+
+vertexname:南部 degree:2
+edge 南部 to 西充 : weight: 64
+edge 南部 to 阆中 : weight: 35
+
+vertexname:西充 degree:2
+edge 西充 to 南部 : weight: 64
+edge 西充 to 南充 : weight: 38
+
+vertexname:合川 degree:2
+edge 合川 to 北碚 : weight: 39
+edge 合川 to 广安 : weight: 39
+
+vertexname:北碚 degree:2
+edge 北碚 to 沙坪坝 : weight: 36
+edge 北碚 to 合川 : weight: 39
+
+vertexname:沙坪坝 degree:2
+edge 沙坪坝 to 北碚 : weight: 36
+edge 沙坪坝 to 重庆 : weight: 12
+
+DFS based on 康庄:
+康庄 居庸关 昌平 北京 廊坊 天津 塘沽 唐山 京唐港 滦州 昌黎 秦皇岛 山海关 抚宁 卢龙 丰润 玉田 蓟州 三河 绥中 
+兴城 连山 锦州 沈阳 鞍山 大石桥 大连 本溪 铁岭 四平 长春 吉林 哈尔滨 大庆 佳木斯 绥远 绥芬河 营城子 公主岭 德惠 
+双城 香坊 昌图 开原 抚顺 新民 黑山 北镇 凌海 丰南 宁河 黄骅 盐山 庆云 无棣 滨州 博兴 桓台 淄博 淄川 
+博山 莱芜 枣庄 木石 泰安 张山子 兰陵 罗庄 临沂 蒙阴 新泰 都匀 贵定 龙里 贵阳 黄果树 遵义 桐梓 綦江 巴南 
+重庆 达州 邻水 大竹 梁平 万州 利川 恩施 宣恩 来凤 龙山 永顺 保靖 花垣 吉首 凤凰 　麻阳 怀化 中方 洪江 
+会同 靖州 通道 融安 柳州 桂林 宣州 宜州 武宣 灵山 合浦 北海 山口 湛江 化州 高州 信宜 岑溪 梧州 贺州 
+道 双牌 东安 邵阳 涟源 常德 澧 荆州 潜江 仙桃 武汉 郑州 开封 商丘芒山 兰考 民权 商丘 亳州 太和 阜阳 
+六安 霍山 岳西 英山 罗田 新洲 黄陂 长沙 益场 湘潭 耒阳 宣章 浏阳 广州 深圳 汕头 汾水关 揭阳 普宁 惠来 
+惠州 河源 上陵 东源 龙川 岐岭 兴宁 梅 梅州 平远 寻乌 会昌 瑞金 石城 广昌 南丰 南城 金溪 鹰潭 乐平 
+景德镇 东至 安庆 贵池 青阳 南陵 泾 黄山 开化 常山 江山 浦城 建阳 建瓯 南平 沙 三明 永安 上杭 蕉岭 
+宣城 杭州 上虞 温州 厚田 漳州 厦门 泉州 福州 三门 上海 嘉定 太仓 昆山 苏州 无锡 常州 丹阳 镇江 南京 
+马鞍山 当涂 芜湖 合肥 三角兀 西潘楼 蚌埠 淮南 宿州 徐州 连云港 砀山 贾汪 峄城 肥西 舒城 桐城 怀宁 肥东 全椒 
+南通 高淳 济南 东明 荷泽 联城 馆陶 菏泽 六合 天长 洪泽 淮安 淮阴 沭阳 新沂 郯城 宁波 北仑 留下 广德 
+长兴 吴兴 南浔? 吴江 青浦 黄浦 潜山 太湖 宿松 黄梅 九江 庐山 德安 南昌 樟树 丰城 新干 峡江 吉水 吉安 
+泰和 遂川 万安 赣州 信丰 龙南 连平 新丰 从化 顺德 中山 江门 珠海 阳江 丰顺 热水 佛山 开平 花都 三水 
+肇庆 云浮 大沥 清远 岱家山 固始 潢川 罗山 信阳 桐柏 唐河 南阳 镇平 邓州 襄阳 宜城 荆门 内乡 西峡 商南 
+丹凤 商洛 蓝田 西安 宝鸡 天水 眉 周至 佛坪 城固 汉中 勉 广元 剑阁 梓潼 绵阳 罗江 德阳 广汉 新都 
+成都 内江 隆昌 纳溪 泸沽 黄联关 西昌 冕宁 石棉 汉源 荥经 雅安 名山 邛崃 新津 双流 崇州 天全 泸定 康定 
+雅江 理塘 巴塘 芒康 左贡 八宿 波密 林芝 工布江达 墨竹工卡 达孜 拉萨 堆龙德庆 曲水 尼木 仁布 日喀则 拉孜 定日 会理 
+攀枝花 元谋 武定 禄劝 富民 昆明 楚雄 大理 曲靖 陆良 玉溪 元江 泸州 自贡 宣宾 宜宾 乐山 都江堰 南充 广安 
+合川 北碚 沙坪坝 蓬安 蓬溪 遂宁 乐至 简阳 西充 南部 阆中 苍溪 元坝 武都 宕昌 临洮 兰州 中川 西宁 平安 
+银川 姚伏 石嘴山 叶盛 王圈梁 古窑子 吐鲁番 鄯善 哈密 柳园镇 瓜州 玉门 嘉峪关 酒泉 嘉峪关市 临泽 张掖 山丹 永昌 武威 
+古浪 天祝自治 永登 乌鲁木齐 大黄山 奎屯 昌吉 呼图壁 玛纳斯 石河子 沙湾 乌苏 精河 霍城 霍尔果斯 吐鲁蕃 榆中 定西 会宁 静宁 
+隆德 平凉 泾川 长武 彬 永寿 礼泉 咸阳 桐川 黄陆 渭南 潼关 灵宝 三门峡 卢氏 郧阳 十堰 房 巴东 建始 
+渑池 洛阳 济源 晋城 高平 长治 黎城 左权 和顺 昔阳 阳泉 阜平 涞源 王安 白涧 野三坡 大灰厂 灵丘 代 原平 
+忻州 阳曲 太原 汾阳 晋中 太谷 祁 平遥 介休 灵石 霍州 临汾 襄汾 曲沃 侯马 新绛 稷山 河津 临猗 运城 
+风陵渡 平陆 禹门口 韩城 吉 大宁 隰 交口 中阳 离石 方山 岚 岢岚 五寨 清水河 和林格尔 呼和浩特 包头 达拉特旗 东胜 
+伊金霍洛旗 榆林 米脂 绥德 清涧 延川 延安 甘泉 洛川 黄陵 宜君 铜川 耀 三原 大同 宣化 旧关 石家庄 安阳 新乡 
+保定 涿州 张家口 张北 太仆寺旗 锡林浩特 阳城 登封 汝州 南召 巩义 兰田 宁陕 石泉 西乡 镇巴 万源 单 金乡 济宁 
+平阴 东阿 茌平 高唐 德州 吴桥 东光 泊头 沧州 青 静海 西青 许昌 漯河 驻马店 宣昌 天河机场 枝江 猇亭 宜昌城 
+雷州 徐闻 海安 遂溪 海口 三亚 文昌 钦州 全州 黄沙河 白色 南宁 罗村口 六景 苍梧 郁南 兴业 百色 坛洛 都安 
+南丹 独山 马山 武鸣 友谊关 渝北 长寿 涪陵 息烽 毕节 凯里 麻江 莒县 诸城 安丘 坊子 潍坊 青州 东营市 东营港 
+青岛 日照 竹园 即墨 乳山 威海 烟台 蓬莱 龙口 莱州 昌邑 寒亭 莱阳 通州 燕郊 首都机场 固安大桥 大兴 
+spaning tree based on 高淳 was created successfully
+shrotest path from 大庆 to 深圳 is: 大庆 哈尔滨 长春 公主岭 四平 铁岭 沈阳 锦州 连山 兴城 绥中 山海关 秦皇岛 昌黎 滦州 唐山 丰南 宁河 黄骅 石家庄 郑州 武汉 黄陂 长沙 广州 深圳
+distance is 2903
+shrotest path from 温州 to 乌鲁木齐 is: 温州 上虞 杭州 宣城 芜湖 合肥 六安 固始 潢川 罗山 信阳 桐柏 唐河 南阳 镇平 内乡 西峡 商南 丹凤 商洛 蓝田 西安 兰州 酒泉 嘉峪关 玉门 瓜州 柳园镇 哈密 鄯善 吐鲁番 乌鲁木齐
+distance is 3336
+BYE
